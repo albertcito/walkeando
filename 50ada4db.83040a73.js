@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[20],{74:function(o){o.exports=JSON.parse('{"permalink":"/walkeando/blog/page/2","page":2,"postsPerPage":10,"totalPages":2,"totalCount":12,"previousPage":"/walkeando/blog","nextPage":null,"blogDescription":"Blog"}')}}]);

@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[27],{82:function(a){a.exports=JSON.parse('{"allTagsPath":"/walkeando/blog/tags","slug":"lgtbiq","name":"lgtbiq","count":1,"permalink":"/walkeando/blog/tags/lgtbiq"}')}}]);
