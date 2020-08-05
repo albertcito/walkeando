@@ -9,7 +9,7 @@ module.exports = {
   projectName: 'walkeando',
   themeConfig: {
     navbar: {
-      title: 'Walkeando.org',
+      title: 'Walkeando',
       logo: {
         alt: 'Walkeando',
         src: 'img/logo.svg',
@@ -22,7 +22,7 @@ module.exports = {
         },
         {
           href: 'https://www.facebook.com/walkeando',
-          label: 'Facebook',
+          label: 'Sigueme en Facebook',
           position: 'right',
         },
       ],
