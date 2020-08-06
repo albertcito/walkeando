@@ -21,7 +21,7 @@ module.exports = {
           position: 'left'
         },
         {
-          href: 'https://www.facebook.com/walkeando',
+          href: 'https://www.facebook.com/curandoelmundo',
           label: 'Sigueme en Facebook',
           position: 'right',
         },
