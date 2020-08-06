@@ -2,8 +2,8 @@
 id: anglicanos-canada
 title: Como los anglicanos de Canada encontrarón nueva vida después de ser expulsados
 author: Albert
-author_title: Fundador Walkeando
-author_url: https://fb.com/walkeando
+author_title: Fundador de Sanando el Mundo
+author_url: http://sanandoelmundo.com/
 author_image_url: https://lh3.googleusercontent.com/ogw/ADGmqu_V6iQnJvuIOUFQJ8ebZQW6vvBd8lk0fipmF92Z
 tags: [historia, investigación, anglicanos, canada, lgtbiq]
 image: https://lh3.googleusercontent.com/JZjvCjEmChZ2OxVQ4Kk5uv32hXmhPbvVSYVR0Uot5_ypgsGi0SA8k2dXGtURzVRdzKLJpFyny-USPhoJyVEC

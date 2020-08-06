@@ -1,15 +1,15 @@
 module.exports = {
   title: 'Walkeando',
   tagline: 'Pronto más información',
-  url: 'https://albertcito.github.com',
-  baseUrl: '/walkeando/',
+  url: 'https://sanandoelmundo.com',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   favicon: 'img/favicon.ico',
   organizationName: 'albertcito', 
   projectName: 'walkeando',
   themeConfig: {
     navbar: {
-      title: 'Walkeando',
+      title: 'Sanando el Mundo',
       logo: {
         alt: 'Walkeando',
         src: 'img/logo.svg',
