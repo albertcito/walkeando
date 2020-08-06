@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[15],{69:function(a){a.exports=JSON.parse('{"allTagsPath":"/walkeando/blog/tags","slug":"islam","name":"islam","count":7,"permalink":"/walkeando/blog/tags/islam"}')}}]);
