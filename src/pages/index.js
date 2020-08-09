@@ -8,48 +8,61 @@ import styles from './styles.module.css';
 
 const features = [
   {
-    title: <>Easy to Use</>,
-    imageUrl: 'img/undraw_docusaurus_mountain.svg',
+    title: <>Entendiendo la Biblia en 90 minutos</>,
+    imageUrl: 'img/child-reading-bible.jpg',
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        A veces es dificil entender las escrituras, muchas veces leemos y no entendemos
+        lo que dice. Aquí tenemos GRATIS un libro que cuenta de que se trata la Biblia, 
+        cual es la diferencia entre el Antiguo y Nuevo testamento, quien es 
+        Jesús, que dice del fin del mundo y más.
       </>
     ),
+    link: '/biblia-90-minutos',
   },
   {
-    title: <>Focus on What Matters</>,
-    imageUrl: 'img/undraw_docusaurus_tree.svg',
+    title: <>La remanente que se mantuvo firme</>,
+    imageUrl: 'img/pray.jpg',
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Esta es una historia inspiradora de la mayor crisis que vivió la Iglesia Anglicana 
+        de Canada entre dos fracciones quienes rechazaban la palabra de Dios y el 
+        remanente que se mantuvo fiel al evangelio y la palabra de Dios. 
       </>
     ),
+    link: '/blog/anglicanos-canada/',
   },
   {
-    title: <>Powered by React</>,
-    imageUrl: 'img/undraw_docusaurus_react.svg',
+    title: <>La pandemia de la soledad</>,
+    imageUrl: 'img/alone.png',
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        La soledad, según nos dicen los expertos en salud pública, está matando a 
+        tantos personas como obesidad y tabaquismo. Los estadounidenses están solos, 
+        los alemanes, los franceses bon vivant están solos, e incluso los escandinavos, 
+        las personas "más felices del mundo" también están solos. Te invito a leer este 
+        reportaje de como el declive de la familia ha destado esta oculta pandemia.
       </>
     ),
+    link: '/blog/alone/',
   },
 ];
 
-function Feature({imageUrl, title, description}) {
+function Feature({imageUrl, title, description, link}) {
   const imgUrl = useBaseUrl(imageUrl);
   return (
     <div className={clsx('col col--4', styles.feature)}>
       {imgUrl && (
-        <div className="text--center">
+        <div className={clsx('text--center')}>
           <img className={styles.featureImage} src={imgUrl} alt={title} />
         </div>
       )}
       <h3>{title}</h3>
       <p>{description}</p>
+      <Link
+        to={useBaseUrl(link)}>
+        Ver más
+      </Link>
     </div>
   );
 }
@@ -59,20 +72,23 @@ function Home() {
   const {siteConfig = {}} = context;
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
+      title={`${siteConfig.title}`}
       description="Description will go into a meta tag in <head />">
-      <header className={clsx('hero hero--primary', styles.heroBanner)}>
-        <div className="container">
-          <h1 className="hero__title">{siteConfig.title}</h1>
-          <p className="hero__subtitle">{siteConfig.tagline}</p>
-          <Link
-            className="button index-ctas-get-started-button"
-            to={useBaseUrl('blog/')}>
-            Ir al Blog
-          </Link>
+      <header className={clsx(styles.heroBanner)}>
+        <div className={clsx('container', styles.containerBanner)}>
+          <h1 className={clsx('hero__title', styles.titleBanner)}>{siteConfig.title}</h1>
+          <p className="hero__subtitle" style={{fontSize: 17, }}>{siteConfig.tagline}</p>
         </div>
       </header>
-      {/* <main>
+      <main>
+        <div className={clsx('container', styles.h2Body, styles.homeBody)}>
+          <h2>Artículos Destacados</h2>
+          <span className={clsx(styles.line_span)}></span>
+          <Link
+            to={useBaseUrl('/blog')}>
+            Ver todos ››
+          </Link> 
+        </div>
         {features && features.length > 0 && (
           <section className={styles.features}>
             <div className="container">
@@ -84,7 +100,7 @@ function Home() {
             </div>
           </section>
         )}
-      </main> */}
+      </main>
     </Layout>
   );
 }
