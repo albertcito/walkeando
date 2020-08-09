@@ -72,8 +72,8 @@ function Home() {
   const {siteConfig = {}} = context;
   return (
     <Layout
-      title={`${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      description="Servimos al Reino de Dios, promoviendo el evangelio que restaura la relación entre Dios y su creación. El cual trae una nueva vida, paz, descanso y esperanza a las personas y brinda justicia al oprimido. Con el objetivo de llegar a una sociedad de personas que aman y se preocupan por su prójimo."
+    >
       <header className={clsx(styles.heroBanner)}>
         <div className={clsx('container', styles.containerBanner)}>
           <h1 className={clsx('hero__title', styles.titleBanner)}>{siteConfig.title}</h1>

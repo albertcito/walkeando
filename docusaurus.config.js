@@ -21,8 +21,13 @@ module.exports = {
           position: 'left'
         },
         {
+          to: 'que-creemos', 
+          label: 'Creemos', 
+          position: 'left'
+        },
+        {
           href: 'https://www.facebook.com/curandoelmundo',
-          label: 'Sigueme en Facebook',
+          label: 'Síguenos en Facebook',
           position: 'right',
         },
       ],
@@ -47,7 +52,7 @@ module.exports = {
             'https://github.com/albertcito/walkeando/edit/master/website/',
         },
         blog: {
-          showReadingTime: true,
+          showReadingTime: false,
           editUrl:
             'https://github.com/albertcito/walkeando/edit/master/website/blog/',
         },
