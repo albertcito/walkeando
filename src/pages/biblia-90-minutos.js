@@ -74,7 +74,7 @@ function Page() {
                       </div>
                       <div class="card__footer">
                         <Link
-                          to='https://drive.google.com/file/d/16yEGpFpIUVdBg2RMfOShwFWoBBkV5vnm/view?usp=sharing'
+                          to='https://declaradojusto.files.wordpress.com/2020/08/entendiendo-la-biblia-en-90-minutos.pdf'
                           className='button button--secondary'
                           style={{width: '100%'}}
                         >
