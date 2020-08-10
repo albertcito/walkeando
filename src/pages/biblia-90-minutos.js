@@ -62,17 +62,17 @@ function Page() {
               <div className="row">
                 <div className="col col--6">
 
-                  <div class="card-demo">
-                    <div class="card">
-                      <div class="card__header">
+                  <div className="card-demo">
+                    <div className="card">
+                      <div className="card__header">
                         <h3>Descargar PDF</h3>
                       </div>
-                      <div class="card__body">
+                      <div className="card__body">
                         <p>
-                          Para ver en computador o smartphone
+                          Para ver en computador o smartphone y fácil de imprimir
                         </p>
                       </div>
-                      <div class="card__footer">
+                      <div className="card__footer">
                         <Link
                           to='https://declaradojusto.files.wordpress.com/2020/08/entendiendo-la-biblia-en-90-minutos.pdf'
                           className='button button--secondary'
@@ -86,7 +86,29 @@ function Page() {
 
                 </div>
                 <div className="col col--6">
-
+                <div className="card-demo">
+                    <div className="card">
+                      <div className="card__header">
+                        <h3>Descargar Epub</h3>
+                      </div>
+                      <div className="card__body">
+                        <p>
+                          Para leer de una forma más fácil en el smartphone, 
+                          necesitaras un software especial para abrir archivos epub.
+                        </p>
+                      </div>
+                      <div className="card__footer">
+                        <Link
+                          target="_blank"
+                          to='/img/Entendiendo-la-Biblia-en-90-Minutos-Joel-McDurmon.epub'
+                          className='button button--secondary'
+                          style={{width: '100%'}}
+                        >
+                          Descarga aquí
+                        </Link>
+                      </div>
+                    </div>
+                  </div>
                 </div>
               </div>
             </div>

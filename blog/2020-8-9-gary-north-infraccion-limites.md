@@ -9,7 +9,7 @@ tags: [economia, pandemia, cuarentena, incendio, contaminación, Gary North, sal
 image: https://declaradojusto.files.wordpress.com/2020/08/gary-north.jpg
 ---
 
-Autor: Gary North
+Autor: **Gary North**  
 Fuente: [https://www.garynorth.com/public/20622.cfm](https://www.garynorth.com/public/20622.cfm)
 
 > Si alguno hiciere pastar en campo o viña, y metiere su bestia en campo de otro, de lo mejor de su campo y de lo mejor de su viña pagará. Cuando se prendiere fuego, y al quemar espinos quemare mieses amontonadas o en pie, o campo, el que encendió el fuego pagará lo quemado. (Éxodo 22: 5-6)
