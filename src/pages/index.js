@@ -21,6 +21,43 @@ const features = [
     link: '/biblia-90-minutos',
   },
   {
+    title: <>El Estado desde una perspectiva Biblica</>,
+    imageUrl: 'img/gary-north.png',
+    description: (
+      <>
+         Te has preguntado alguna vez ¿Qué dice la Biblia respecto al estado? 
+         ¿Qué áreas es permitido que el estado afecte a tu vida y a la vida de la sociedad? 
+         ¿Los impuestos son válidos? Muchas preguntas más y como estas son respondidas desde una perspectiva Biblia. 
+      </>
+    ),
+    link: '/blog/gary-north-el-estado–indice/',
+  },
+  {
+    title: <>Mi amigo musulman</>,
+    imageUrl: 'img/musuman-cristiano.png',
+    description: (
+      <>
+        En 2017 estuve viviendo en una casa con muchos musulmanes, me hice amigo de uno 
+        de ellos y siempre teniamos conversaciones acerca de nuestra fe y diferencias. Te 
+        invito a leer mi experiencia y argumentos respecto al cristianismo y el islam.
+      </>
+    ),
+    link: '/blog/mi-amigo-musulman/',
+  },
+  {
+    title: <>Cuarentena y la Biblia</>,
+    imageUrl: 'img/corona-virus.png',
+    description: (
+      <>
+        Te has preguntado ¿El gobierno civil tiene el derecho ordenar 
+        cerrar propiedad privada en cuarentenas? ¿O esto sobrepasa el poder 
+        del gobierno civil en la vida de las personas y de las iglesias? Aquí
+        te ofrecemos una respuesta a está interrogante!
+      </>
+    ),
+    link: '/blog/cuarentena-biblia/',
+  },
+  {
     title: <>La remanente que se mantuvo firme</>,
     imageUrl: 'img/pray.jpg',
     description: (
@@ -57,12 +94,19 @@ function Feature({imageUrl, title, description, link}) {
           <img className={styles.featureImage} src={imgUrl} alt={title} />
         </div>
       )}
-      <h3>{title}</h3>
-      <p>{description}</p>
-      <Link
-        to={useBaseUrl(link)}>
-        Ver más
-      </Link>
+      <h3>
+        <Link
+          to={useBaseUrl(link)}>
+          {title}
+        </Link>
+      </h3>
+      <p>
+        {description} <Link
+          to={useBaseUrl(link)}>
+          Ver más ››
+        </Link>
+      </p>
+      
     </div>
   );
 }
