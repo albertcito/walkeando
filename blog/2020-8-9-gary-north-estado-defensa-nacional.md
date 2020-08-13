@@ -1,6 +1,6 @@
 ---
-id: gary-north-defensa-nacional
-title: Economía Cristiana - Defensa Nacional
+id: gary-north-estado-defensa-nacional
+title: Economía Cristiana - El Estado - Defensa Nacional
 author: Albert
 author_title: Fundador de Sanando el Mundo
 author_url: http://sanandoelmundo.com/

@@ -1,6 +1,6 @@
 ---
-id: gary-north-conclusion-part-6
-title: Economía Cristiana - Conclusión
+id: gary-north-estado-conclusion-part-6
+title: Economía Cristiana - El Estado - Conclusión
 author: Albert
 author_title: Fundador de Sanando el Mundo
 author_url: http://sanandoelmundo.com/
@@ -11,9 +11,7 @@ image: https://declaradojusto.files.wordpress.com/2020/08/gary-north.jpg
 Autor: Gary North  
 Fuente: https://www.garynorth.com/public/20630.cfm
 
-> Si hubiere pleito entre algunos, y acudieren al tribunal para que los jueces los juzguen, éstos absolverán al justo, y condenarán al culpable.  Y si el delincuente mereciere ser azotado, entonces el juez le hará echar en tierra, y le hará azotar en su presencia; según su delito será el número de azotes.  Se podrá dar cuarenta azotes, no más; no sea que, si lo hirieren con muchos azotes más que éstos, se sienta tu hermano envilecido delante de tus ojos.
-
-(Deuteronomio 25: 1-3)
+> Si hubiere pleito entre algunos, y acudieren al tribunal para que los jueces los juzguen, éstos absolverán al justo, y condenarán al culpable.  Y si el delincuente mereciere ser azotado, entonces el juez le hará echar en tierra, y le hará azotar en su presencia; según su delito será el número de azotes.  Se podrá dar cuarenta azotes, no más; no sea que, si lo hirieren con muchos azotes más que éstos, se sienta tu hermano envilecido delante de tus ojos. (Deuteronomio 25: 1-3)
 
 Este pasaje deja en claro que Dios autoriza al estado a imponer violencia a criminales y rebeldes convictos. La teoría política moderna insiste en que esta violencia es monopolística. La Biblia no enseña esto. El vengador de sangre tenía derecho a la violencia contra alguien de quien sospechaba haber asesinado, incluso cuando esa persona mató a otra persona por accidente. No es legal que alguien se defienda de un vengador de sangre. Tenía que ser rápido de pies para evadir legalmente al vengador de sangre. La ley mosaica estableció las ciudades de refugio como una forma de mitigar y socavar el poder del vengador de la sangre. Por lo tanto, las familias tienen cierta autoridad bíblica para imponer violencia, pero en la época del Nuevo Testamento esto obviamente es limitado. No hay más vengadores de sangre. Jesucristo cumplió el oficio del vengador de sangre, quien también era el pariente redentor. Cristo en el juicio final completará ese oficio. Por eso es imperativo que Cristo, pariente-redentor, te defienda contra Cristo, vengador de sangre.
 
