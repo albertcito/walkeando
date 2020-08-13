@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[77],{131:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"libertarianismo","name":"libertarianismo","count":1,"permalink":"/blog/tags/libertarianismo"}')}}]);
