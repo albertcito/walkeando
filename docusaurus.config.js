@@ -40,6 +40,9 @@ module.exports = {
         Icon made by Freepik from www.flaticon.com
       `,
     },
+    googleAnalytics: {
+      trackingID: 'UA-175395555-1',
+    },
   },
   presets: [
     [
@@ -62,10 +65,4 @@ module.exports = {
       },
     ],
   ],
-  themeConfig: {
-    googleAnalytics: {
-      trackingID: 'UA-175395555-1',
-      anonymizeIP: true,
-    },
-  },
 };
