@@ -62,4 +62,10 @@ module.exports = {
       },
     ],
   ],
+  themeConfig: {
+    googleAnalytics: {
+      trackingID: 'UA-175395555-1',
+      anonymizeIP: true,
+    },
+  },
 };
