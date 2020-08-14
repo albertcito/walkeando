@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[14],{70:function(e){e.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"nuevo-testamento","name":"nuevo testamento","count":1,"permalink":"/blog/tags/nuevo-testamento"}')}}]);
