@@ -31,7 +31,7 @@ const features = [
         apoyan mutuamente.
       </>
     ),
-    link: '/blog/michael-kruger-diez-hechos-basicos-canon-nt-todo-cristiano-debe-memorizar/',
+    link: '/blog/the-chosen-serie-realmente-encantadora/',
   },
   {
     title: <>Diez hechos básicos sobre el canon del NT que todo cristiano debe memorizar</>,

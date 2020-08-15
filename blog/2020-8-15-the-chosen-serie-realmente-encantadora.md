@@ -42,8 +42,10 @@ Durante la última década más o menos, se ha vuelto cada vez más común ver p
 
 Es tradicional incluir algunos comentarios negativos en una reseña, y me temo que no te lo tomes en serio si yo no lo hago. Pero, en verdad, me encantaron todos los episodios de The Chosen, desde sus bromas de papá groseros hasta los cascos romanos de aspecto ligeramente barato. Hay más temporadas por venir, y si todas son tan reflexivas y bellamente escritas como esta, nos espera un gran regalo. 
 
-Trailer en español aquí: https://www.facebook.com/watch/?v=479257582677322
-
 <div class="alert alert--secondary" role="info">
   Escrito por Suzannah Rowntree. Puedes leer el <a href="https://www.lambsreign.com/blog/the-chosen-review">artículo original aquí</a>.
+</div> 
+<p></p>
+<div class="alert alert--info" role="info">
+  Trailer en español en <a href="https://www.facebook.com/watch/?v=479257582677322">Facebook</a>. Para poder ver los capítulos gratuitamente debes registrarte en <a href="https://share.thechosen.tv/ETFX2B">Vidangel</a>.
 </div> 
