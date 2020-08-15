@@ -21,6 +21,30 @@ const features = [
     link: '/biblia-90-minutos',
   },
   {
+    title: <>The Chosen es un serie realmente encantadora</>,
+    imageUrl: 'img/the-chosen-review.png',
+    description: (
+      <>
+        Las novelas, los dramas y las películas tienen un papel importante 
+        que desempeñar en la comunicación del dogma, y ​​The Chosen es otro 
+        ejemplo perfecto de una historia en la que el dogma y el drama se 
+        apoyan mutuamente.
+      </>
+    ),
+    link: '/blog/michael-kruger-diez-hechos-basicos-canon-nt-todo-cristiano-debe-memorizar/',
+  },
+  {
+    title: <>Diez hechos básicos sobre el canon del NT que todo cristiano debe memorizar</>,
+    imageUrl: 'img/new-testament.png',
+    description: (
+      <>
+       ¿Cómo se formo la Biblia? ¿Por qué esos libros y no otros? y ¿Qué pasa con los 
+       apocrifos? esto y más en esta fascinante serie
+      </>
+    ),
+    link: '/blog/michael-kruger-diez-hechos-basicos-canon-nt-todo-cristiano-debe-memorizar/',
+  },
+  {
     title: <>El Estado desde una perspectiva Biblica</>,
     imageUrl: 'img/gary-north.png',
     description: (
