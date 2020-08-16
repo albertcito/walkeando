@@ -6,7 +6,7 @@ author_title: Fundador de Sanando el Mundo
 author_url: http://sanandoelmundo.com/
 author_image_url: https://lh3.googleusercontent.com/ogw/ADGmqu_V6iQnJvuIOUFQJ8ebZQW6vvBd8lk0fipmF92Z
 tags: [canon, apologética, evangelios, nuevo testamento]
-image: https://blogs.ancientfaith.com/wholecounsel/wp-content/uploads/sites/37/2018/02/NewTestament.jpg
+image: https://declaradojusto.files.wordpress.com/2020/08/canon-1.png
 ---
 
 Esta nueva serie de blogs está diseñada para ayudar al creyente a aprender algunos hechos básicos sobre el canon del Nuevo Testamento, el tipo de hechos que pueden ser útiles en una conversación con un amigo escéptico o inquisitivo. El primero de estos hechos es tan básico que a menudo se pasa por alto. Es simplemente que los libros del Nuevo Testamento son los primeros escritos cristianos que poseemos.

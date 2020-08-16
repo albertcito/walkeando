@@ -6,7 +6,7 @@ author_title: Fundador de Sanando el Mundo
 author_url: http://sanandoelmundo.com/
 author_image_url: https://lh3.googleusercontent.com/ogw/ADGmqu_V6iQnJvuIOUFQJ8ebZQW6vvBd8lk0fipmF92Z
 tags: [canon, apologética, escritura, nuevo testamento]
-image: https://blogs.ancientfaith.com/wholecounsel/wp-content/uploads/sites/37/2018/02/NewTestament.jpg
+image: https://declaradojusto.files.wordpress.com/2020/08/canon-6.png
 ---
 
 Esta serie está diseñada para presentar a los cristianos laicos los hechos básicos de cómo se desarrolló el canon del Nuevo Testamento. Uno de los puntos de datos clave en cualquier discusión sobre el canon es algo llamado el fragmento de Muratorian (también conocido como el canon de Muratorian). Este fragmento, que lleva el nombre de su descubridor Ludovico Antonio Muratori, contiene nuestra lista más antigua de los libros del Nuevo Testamento. Si bien el fragmento en sí data del siglo VII o VIII, la lista que contiene se escribió originalmente en griego y se remonta a finales del siglo II (c. 180).

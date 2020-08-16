@@ -6,7 +6,7 @@ author_title: Fundador de Sanando el Mundo
 author_url: http://sanandoelmundo.com/
 author_image_url: https://lh3.googleusercontent.com/ogw/ADGmqu_V6iQnJvuIOUFQJ8ebZQW6vvBd8lk0fipmF92Z
 tags: [canon, apologética, apocrifos, nuevo testamento]
-image: https://blogs.ancientfaith.com/wholecounsel/wp-content/uploads/sites/37/2018/02/NewTestament.jpg
+image: https://declaradojusto.files.wordpress.com/2020/08/canon-3.png
 ---
 
 Uno de los hechos más básicos sobre el canon del Nuevo Testamento que todos los cristianos deben entender es que el canon está íntimamente conectado con las actividades de los apóstoles.

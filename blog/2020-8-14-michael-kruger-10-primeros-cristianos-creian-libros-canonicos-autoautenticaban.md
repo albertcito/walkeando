@@ -6,7 +6,7 @@ author_title: Fundador de Sanando el Mundo
 author_url: http://sanandoelmundo.com/
 author_image_url: https://lh3.googleusercontent.com/ogw/ADGmqu_V6iQnJvuIOUFQJ8ebZQW6vvBd8lk0fipmF92Z
 tags: [canon, apologética, escritura, nuevo testamento]
-image: https://blogs.ancientfaith.com/wholecounsel/wp-content/uploads/sites/37/2018/02/NewTestament.jpg
+image: https://declaradojusto.files.wordpress.com/2020/08/canon-10.png
 --- 
 
 ¿Cómo sabemos qué libros son de Dios y cuáles no? Hay muchas respuestas a esa pregunta, algunas de las cuales hemos cubierto en publicaciones anteriores. Ciertamente, los orígenes apostólicos de un libro pueden ayudar a identificarlo como proveniente de Dios. Y, el consenso general de la iglesia sobre un libro puede ser parte de cómo lo identificamos como proveniente de Dios.

@@ -47,5 +47,5 @@ Es tradicional incluir algunos comentarios negativos en una reseña, y me temo q
 </div> 
 <p></p>
 <div class="alert alert--info" role="info">
-  Trailer en español en <a href="https://www.facebook.com/watch/?v=479257582677322">Facebook</a>. Para poder ver los capítulos gratuitamente debes registrarte en <a href="https://share.thechosen.tv/ETFX2B">Vidangel</a>.
+  Trailer en español en <a href="https://www.facebook.com/watch/?v=479257582677322">Facebook</a>. Para poder ver los capítulos gratuitamente debes registrarte en <a href="http://thechosen.tv/?locale=es">Vidangel</a>, el primer cápitulo no necesita registro. Sí no aparecen los subtítulos, intenta descargar su app. 
 </div> 

@@ -6,7 +6,7 @@ author_title: Fundador de Sanando el Mundo
 author_url: http://sanandoelmundo.com/
 author_image_url: https://lh3.googleusercontent.com/ogw/ADGmqu_V6iQnJvuIOUFQJ8ebZQW6vvBd8lk0fipmF92Z
 tags: [canon, apologética, escritura, nuevo testamento]
-image: https://blogs.ancientfaith.com/wholecounsel/wp-content/uploads/sites/37/2018/02/NewTestament.jpg
+image: https://declaradojusto.files.wordpress.com/2020/08/canon-7.png
 ---
 
 Para los cristianos que luchan por comprender el desarrollo del canon del Nuevo Testamento, uno de los hechos más confusos (y quizás preocupantes) es que los primeros escritores cristianos a menudo citaron y usaron escritos no canónicos. En otras palabras, los primeros cristianos no solo usaban libros de nuestro Nuevo Testamento actual, sino que también leían libros como el Pastor de Hermas, el Evangelio de Pedro y la Epístola de Bernabé.

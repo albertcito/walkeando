@@ -6,7 +6,7 @@ author_title: Fundador de Sanando el Mundo
 author_url: http://sanandoelmundo.com/
 author_image_url: https://lh3.googleusercontent.com/ogw/ADGmqu_V6iQnJvuIOUFQJ8ebZQW6vvBd8lk0fipmF92Z
 tags: [canon, apologética, escritura, nuevo testamento]
-image: https://blogs.ancientfaith.com/wholecounsel/wp-content/uploads/sites/37/2018/02/NewTestament.jpg
+image: https://declaradojusto.files.wordpress.com/2020/08/canon-8.png
 ---
 
 Por alguna serie de razones, existe una creencia generalizada (Internet, libros populares) de que el canon del Nuevo Testamento se decidió en el Concilio de Nicea en el 325 d.C., bajo la influencia conspirativa de Constantino. El hecho de que esta afirmación se haya hecho en el best-seller de Dan Brown, El Código Da Vinci, muestra lo generalizado que está realmente. Brown no se inventó esta creencia; simplemente lo usó en su libro.

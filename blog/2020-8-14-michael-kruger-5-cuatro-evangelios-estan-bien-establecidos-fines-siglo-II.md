@@ -6,7 +6,7 @@ author_title: Fundador de Sanando el Mundo
 author_url: http://sanandoelmundo.com/
 author_image_url: https://lh3.googleusercontent.com/ogw/ADGmqu_V6iQnJvuIOUFQJ8ebZQW6vvBd8lk0fipmF92Z
 tags: [canon, apologética, escritura, ireneo, nuevo testamento]
-image: https://blogs.ancientfaith.com/wholecounsel/wp-content/uploads/sites/37/2018/02/NewTestament.jpg
+image: https://declaradojusto.files.wordpress.com/2020/08/canon-5.png
 ---
 
 Cuando se trata de hechos básicos sobre el canon del NT que los cristianos deben memorizar, uno de los más críticos es la declaración de Ireneo, obispo de Lyon, alrededor del año 180 d.C.: “No es posible que los evangelios puedan ser más o menos que los número que son. Porque, dado que hay cuatro zonas del mundo en las que vivimos y cuatro vientos principales ... [y] los querubines también tenían cuatro caras ”. [1]

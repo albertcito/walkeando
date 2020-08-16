@@ -6,7 +6,7 @@ author_title: Fundador de Sanando el Mundo
 author_url: http://sanandoelmundo.com/
 author_image_url: https://lh3.googleusercontent.com/ogw/ADGmqu_V6iQnJvuIOUFQJ8ebZQW6vvBd8lk0fipmF92Z
 tags: [canon, apologética, escritura, nuevo testamento]
-image: https://blogs.ancientfaith.com/wholecounsel/wp-content/uploads/sites/37/2018/02/NewTestament.jpg
+image: https://declaradojusto.files.wordpress.com/2020/08/canon-4.png
 ---
 
 Uno de los temas más controvertidos en el estudio del canon del Nuevo Testamento es la fecha en que estos libros fueron considerados Escritura. ¿Cuándo se utilizaron por primera vez estos libros como guía autorizada para la iglesia? Los eruditos críticos argumentarán que estos libros no fueron escritos para ser Escritura y ni siquiera se usaron como Escritura hasta fines del siglo II.

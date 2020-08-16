@@ -6,7 +6,7 @@ author_title: Fundador de Sanando el Mundo
 author_url: http://sanandoelmundo.com/
 author_image_url: https://lh3.googleusercontent.com/ogw/ADGmqu_V6iQnJvuIOUFQJ8ebZQW6vvBd8lk0fipmF92Z
 tags: [canon, apologética, apocrifos, tradición, nuevo testamento]
-image: https://blogs.ancientfaith.com/wholecounsel/wp-content/uploads/sites/37/2018/02/NewTestament.jpg
+image: https://declaradojusto.files.wordpress.com/2020/08/canon-2.png
 ---
 
 En la publicación anterior, discutimos el primer hecho básico sobre el canon del Nuevo Testamento, a saber, que los escritos del Nuevo Testamento son los primeros textos cristianos que poseemos. Tuvimos cuidado de dejar en claro que la fecha temprana de estos libros no los hace canónicos, pero la fecha temprana muestra que estos libros fueron escritos durante un período de tiempo cuando los testigos oculares de Jesús todavía estaban vivos.
