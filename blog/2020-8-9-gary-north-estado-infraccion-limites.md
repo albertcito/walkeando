@@ -9,9 +9,6 @@ tags: [economia, pandemia, cuarentena, incendio, contaminación, Gary North, sal
 image: https://declaradojusto.files.wordpress.com/2020/08/gary-north.jpg
 ---
 
-Autor: **Gary North**  
-Fuente: [https://www.garynorth.com/public/20622.cfm](https://www.garynorth.com/public/20622.cfm)
-
 > Si alguno hiciere pastar en campo o viña, y metiere su bestia en campo de otro, de lo mejor de su campo y de lo mejor de su viña pagará. Cuando se prendiere fuego, y al quemar espinos quemare mieses amontonadas o en pie, o campo, el que encendió el fuego pagará lo quemado. (Éxodo 22: 5-6)
 
 > Habló Jehová a Moisés y a Aarón, diciendo: Cuando el hombre tuviere en la piel de su cuerpo hinchazón, o erupción, o mancha blanca, y hubiere en la piel de su cuerpo como llaga de lepra, será traído a Aarón el sacerdote o a uno de sus hijos los sacerdotes. Y el sacerdote mirará la llaga en la piel del cuerpo; si el pelo en la llaga se ha vuelto blanco, y pareciere la llaga más profunda que la piel de la carne, llaga de lepra es; y el sacerdote le reconocerá, y le declarará inmundo.... Y si reconociéndolo el sacerdote ve que la erupción se ha extendido en la piel, lo declarará inmundo: es lepra. (Levitico 13: 1-3, 8)
@@ -114,3 +111,9 @@ Tiene que haber un sistema de regulación gubernamental, que incluya la cuarente
 
 En términos del costo total del gobierno, estos son gastos menores. Las sociedades los han utilizado a lo largo de la historia. La mayoría de la gente los acepta. No existe una oposición bien organizada a su uso. En comparación con los gastos masivos del estado moderno en proyectos que están claramente prohibidos por la Biblia, estas excepciones no constituyen una amenaza para la libertad de las personas que guardan el pacto. Además, los economistas del libre mercado que negarían cualquiera de estos gastos no han desarrollado monografías completas sobre cómo el libre mercado podría alcanzar estos objetivos. Son objetivos legítimos. Los economistas del libre mercado deben enfrentarse a este hecho: no pueden vencer a algo sin nada.
 
+-----
+De la seria [Economía Cristiana - El Estado](/blog/gary-north-el-estado–indice)
+
+<div class="alert alert--secondary" role="info">
+  Escrito por Gary North, en el volumen 4 de la obra magna de Gary North llamado <a href="https://www.garynorth.com/public/20622.cfm">Christian Economics: Scholar's Edition </a>.
+</div> 

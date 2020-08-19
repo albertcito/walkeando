@@ -9,9 +9,6 @@ tags: [estado, anarcocapitalismo, libertarianismo, impuestos, burocracia, Gary N
 image: https://declaradojusto.files.wordpress.com/2020/08/gary-north.jpg
 ---
 
-Autor: Gary North  
-Fuente: <https://www.garynorth.com/public/20617.cfm>
-
 > Y cuando se siente sobre el trono de su reino, entonces escribirá para sí en un libro una copia de esta ley, del original que está al cuidado de los sacerdotes levitas;  y lo tendrá consigo, y leerá en él todos los días de su vida, para que aprenda a temer a Jehová su Dios, para guardar todas las palabras de esta ley y estos estatutos, para ponerlos por obra;  para que no se eleve su corazón sobre sus hermanos, ni se aparte del mandamiento a diestra ni a siniestra; a fin de que prolongue sus días en su reino, él y sus hijos, en medio de Israel. (Deuteronomio 17:18--20)
 
 > Y refirió Samuel todas las palabras de Jehová al pueblo que le había pedido rey.  Dijo, pues: Así hará el rey que reinará sobre vosotros: tomará vuestros hijos, y los pondrá en sus carros y en su gente de a caballo, para que corran delante de su carro;  y nombrará para sí jefes de miles y jefes de cincuentenas; los pondrá asimismo a que aren sus campos y sieguen sus mieses, y a que hagan sus armas de guerra y los pertrechos de sus carros.  Tomará también a vuestras hijas para que sean perfumadoras, cocineras y amasadoras.  Asimismo tomará lo mejor de vuestras tierras, de vuestras viñas y de vuestros olivares, y los dará a sus siervos.  Diezmará vuestro grano y vuestras viñas, para dar a sus oficiales y a sus siervos.(1 Samuel 8:10--15)
@@ -161,3 +158,10 @@ El nivel de promesas políticas con respecto a las prestaciones de jubilación d
 Para restaurar el gobierno civil bíblico, los ciudadanos deben restaurar los límites de la ley mosaica impuesta al gobierno civil. Las leyes deben entenderse fácilmente. Deben aplicarse de manera uniforme a todos los ciudadanos. La multiplicación de leyes ha llevado a la multiplicación de reglamentos y estos deben ser eliminados. Si se mantienen, no veremos la restauración del gobierno civil bíblico.
 
 La única forma segura de cambiar las burocracias es recortando su financiación. Esto debería hacerse por principio. Esto requerirá que los gobiernos civiles del mundo no tengan la autoridad para aumentar los impuestos por encima del umbral del diezmo: el 10% de los ingresos netos. Cuando los gobiernos civiles imponen impuestos superiores al diezmo, están anunciando implícitamente que tienen mayor autoridad que Dios. Esto es inherentemente satánico. Por lo tanto, la restauración del gobierno civil bíblico debe comenzar con una reducción drástica de los impuestos. Hasta que esto se haga, los que guardan el pacto vivirán en un mundo gobernado por violadores del pacto. Si los que cumplen el pacto votan del lado de los que rompen el pacto para mantener el nivel tiránico de impuestos existente, serán como los residentes de Egipto durante los faraones de la opresión. La diferencia es esta: no clamarán a Dios por liberación (Éxodo 3: 9).
+
+-----
+De la seria [Economía Cristiana - El Estado](/blog/gary-north-el-estado–indice)
+
+<div class="alert alert--secondary" role="info">
+  Escrito por Gary North, en el volumen 4 de la obra magna de Gary North llamado <a href="https://www.garynorth.com/public/20617.cfm">Christian Economics: Scholar's Edition </a>.
+</div> 

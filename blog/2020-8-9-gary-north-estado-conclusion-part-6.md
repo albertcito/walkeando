@@ -8,8 +8,6 @@ author_image_url: https://lh3.googleusercontent.com/ogw/ADGmqu_V6iQnJvuIOUFQJ8eb
 tags: [estado, libertarianismo, Gary North]
 image: https://declaradojusto.files.wordpress.com/2020/08/gary-north.jpg
 ---
-Autor: Gary North  
-Fuente: https://www.garynorth.com/public/20630.cfm
 
 > Si hubiere pleito entre algunos, y acudieren al tribunal para que los jueces los juzguen, éstos absolverán al justo, y condenarán al culpable.  Y si el delincuente mereciere ser azotado, entonces el juez le hará echar en tierra, y le hará azotar en su presencia; según su delito será el número de azotes.  Se podrá dar cuarenta azotes, no más; no sea que, si lo hirieren con muchos azotes más que éstos, se sienta tu hermano envilecido delante de tus ojos. (Deuteronomio 25: 1-3)
 
@@ -28,3 +26,11 @@ La teoría económica del libre mercado puede ofrecer algunas ideas sobre las op
 Es una buena idea que un economista cristiano comprenda lo que enseña la Biblia sobre asuntos relacionados con el gobierno civil. Incluso si su trabajo se percibe como utópico, es prudente que dedique tiempo y esfuerzo a analizar aspectos del gobierno que probablemente no se reformarán durante su vida. He pasado gran parte de mi vida haciendo tales análisis. Este libro es una prueba. Me tomó cuatro décadas hacer mi tarea para escribir este libro. Pero un hombre sabio comprende la diferencia entre el utopismo que no se puede lograr en la historia, las reformas políticas improbables que probablemente no se alcanzarán durante su vida y las reformas que son políticamente posibles durante su vida. Incluso si no se pueden reformar hoy, porque la economía es estable, si la economía ya no puede sostener ciertos programas, caerán por su propio peso. Eso es lo que sucedió en la China comunista en 1979, y lo que sucedió en la Rusia comunista en 1991. Es prudente dedicar tiempo y dinero a un análisis de cómo debería funcionar un arreglo institucional bíblico en el mundo actual. De esta manera, puede ser posible diseñar un plan práctico para llegar desde donde estamos hoy hasta donde podríamos estar, y deberíamos estar, mañana si el sistema existente de gobierno civil alguna vez pierde legitimidad como resultado de los resultados negativos de su programa obligatorio. Los economistas cristianos deberían desarrollar monografías, programas de reforma y materiales educativos que puedan usarse, especialmente a nivel local, en un momento de crisis económica, cuando los votantes estén reconsiderando sus presuposiciones sobre cómo debería funcionar el gobierno civil. La vieja regla es cierta: no podemos vencer a algo sin nada.
 
 Convencer a las personas para que cambien su perspectiva suele ser una tarea infructuosa. Es caro cambiar incluso una idea. Esta regla es cierta: no podemos cambiar solo una cosa. Esto es especialmente cierto en el caso de las ideas, al menos para las personas que se toman las ideas en serio. Nuestra primera tarea es siempre cambiar nuestras propias ideas. Tenemos que calcular el costo. Luego tenemos que desarrollar materiales educativos que sientan las bases para que otras personas cambien sus ideas cuando sea el momento adecuado. La palabra griega del Nuevo Testamento para ese tiempo es kairos. Se contrasta con cronos. Chronos se trata de calendarios. Kairos trata sobre momentos especiales de oportunidad. Se unifican en momentos únicos de cambios significativos.
+
+
+-----
+De la seria [Economía Cristiana - El Estado](/blog/gary-north-el-estado–indice)
+
+<div class="alert alert--secondary" role="info">
+  Escrito por Gary North, en el volumen 4 de la obra magna de Gary North llamado <a href="https://www.garynorth.com/public/20630.cfm">Christian Economics: Scholar's Edition </a>.
+</div> 

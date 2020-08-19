@@ -8,8 +8,6 @@ author_image_url: https://lh3.googleusercontent.com/ogw/ADGmqu_V6iQnJvuIOUFQJ8eb
 tags: [estado, libertarianismo, propiedad, Gary North]
 image: https://declaradojusto.files.wordpress.com/2020/08/gary-north.jpg
 ---
-Autor: Gary North
-Fuente: <https://www.garynorth.com/public/20626.cfm>
 
 > Levantándose, pues, aquellos varones, fueron; y mandó Josué a los que iban para delinear la tierra, diciéndoles: Id, recorred la tierra y delineadla, y volved a mí, para que yo os eche suertes aquí delante de Jehová en Silo. Fueron, pues, aquellos varones y recorrieron la tierra, delineándola por ciudades en siete partes en un libro, y volvieron a Josué al campamento en Silo. Y Josué les echó suertes delante de Jehová en Silo; y allí repartió Josué la tierra a los hijos de Israel por sus porciones. (Josué 18:8--10)
 
@@ -122,3 +120,11 @@ Las carreteras permiten al gobierno civil extender su jurisdicción a las vidas 
 Los servicios públicos son subproductos del sistema de carreteras del estado. Proporcionan los servicios necesarios para que los inmigrantes de las granjas se establezcan en las ciudades. Como ya he dicho, el modelo histórico bíblico es la transición del jardín a la ciudad. Así es como el pacto de dominio se extiende en la historia.
 
 No existe una teoría libertaria de las carreteras porque las carreteras no se rigen por el principio de las altas ofertas. La distribución de la tierra asociada a la construcción de una carretera no puede realizarse mediante el funcionamiento del proceso de mercado. Eso se debe al aumento del valor de mercado del terreno que queda por comprar para ampliar la carretera. El estado puede comprar la tierra requerida de todos los participantes a una tarifa plana. Esto no es posible para una empresa con ánimo de lucro.
+
+
+-----
+De la seria [Economía Cristiana - El Estado](/blog/gary-north-el-estado–indice)
+
+<div class="alert alert--secondary" role="info">
+  Escrito por Gary North, en el volumen 4 de la obra magna de Gary North llamado <a href="https://www.garynorth.com/public/20626.cfm">Christian Economics: Scholar's Edition </a>.
+</div> 

@@ -8,8 +8,6 @@ author_image_url: https://lh3.googleusercontent.com/ogw/ADGmqu_V6iQnJvuIOUFQJ8eb
 tags: [estado, anarcocapitalismo, libertarianismo, justicia, Gary North]
 image: https://declaradojusto.files.wordpress.com/2020/08/gary-north.jpg
 ---
-Autor: Gary North  
-Fuente: <https://www.garynorth.com/public/20604.cfm>
 
 > La misma ley será para el natural, y para el extranjero que habitare entre vosotros. (Exodo 12:49)
 
@@ -128,3 +126,10 @@ La gente quiere justicia. El economista siempre agrega esto: a algún precio. La
 La gente está dispuesta a soportar injusticias menores si puede lograr la paz. Si pueden seguir con sus vidas sin una interferencia excesiva, especialmente una interferencia impredecible, ya sea del gobierno o de los criminales, por lo general lo harán. Pero si su sentido de injusticia se acumula con el tiempo debido a un aumento aparentemente irreversible de injusticias menores, la gente comenzará a cambiar su comportamiento. Ya no cooperarán más con el gobierno y, en esta negativa, descubrirán que no pueden cooperar de manera predecible con otras personas. Por eso, eventualmente se revertirá el aumento de la injusticia. El costo personal de soportar la injusticia sigue aumentando. En algún momento, habrá un punto de inflexión. El público dejará de utilizar el autogobierno en sus asuntos. Entonces, hay un aspecto autodestructivo y reversible de cada sistema de injusticia en el sistema legal del gobierno civil que no tiene formas de auto reforma. Será reformado por personas ajenas al sistema: ejércitos invasores o revolucionarios.
 
 La tiranía tiene límites incorporados: fronteras. Esto no es visible para quienes viven en sociedades tiránicas, pero los regímenes tiránicos no sobreviven. El mundo social es un mundo creado y Dios está a cargo de él. Lo ha creado de tal manera que hay limitaciones inherentes a la extensión del poder estatal. La famosa declaración de 1887 de Lord Acton es inteligente: "Todo poder corrompe y el poder absoluto corrompe absolutamente". Era una frase en una carta privada. Es incorrecto. No todo el poder corrompe, si por poder nos referimos a la autoridad delegada. Además, mucho antes de que el poder político se vuelva absoluto, su propia corrupción lo socava. Dios tiene poder absoluto; nadie más lo hace. Dios es digno de confianza. El poder absoluto no lo corrompe. La búsqueda del poder absoluto por parte de los que rompen el pacto siempre resulta contraproducente. No conozco ninguna obra literaria del mundo antiguo que compita con el capítulo quinto de Amós en este sentido. Si alguna vez siente la tentación de desesperarse por la deriva de la política, lea ese capítulo. Mientras tanto, este es nuestro mandamiento: "Pero corra el juicio como las aguas, y la justicia como impetuoso arroyo." (Amós 5:24). Aquí está el resultado bíblico del quebrantamiento sistemático del pacto por parte de los que tienen poder: "La palabra, pues, de Jehová les será mandamiento tras mandamiento, mandato sobre mandato, renglón tras renglón, línea sobre línea, un poquito allí, otro poquito allá; hasta que vayan y caigan de espaldas, y sean quebrantados, enlazados y presos."(Isaías 28:13).
+
+-----
+De la seria [Economía Cristiana - El Estado](/blog/gary-north-el-estado–indice)
+
+<div class="alert alert--secondary" role="info">
+  Escrito por Gary North, en el volumen 4 de la obra magna de Gary North llamado <a href="https://www.garynorth.com/public/20604.cfm">Christian Economics: Scholar's Edition </a>.
+</div> 
