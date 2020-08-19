@@ -21,6 +21,16 @@ const features = [
     link: '/biblia-90-minutos',
   },
   {
+    title: <>Introducción a Cherem</>,
+    imageUrl: 'img/moises.png',
+    description: (
+      <>
+        El concepto de acercarse al lugar santísimo de Dios aparece comenzando en el Edén y se repite en el tabernáculo, el templo, varios aspectos de la ley, la historia del antiguo Israel, todo a través de los profetas, y en las amenazas de una gran tribulación durante el últimos días del Antiguo Pacto, así como en las promesas de un futuro templo en el Nuevo Pacto.
+      </>
+    ),
+    link: '/blog/introduccion-cherem',
+  },
+  {
     title: <>The Chosen es un serie realmente encantadora</>,
     imageUrl: 'img/the-chosen-review.png',
     description: (

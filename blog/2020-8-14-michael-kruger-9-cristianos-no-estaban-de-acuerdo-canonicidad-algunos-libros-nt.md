@@ -39,6 +39,10 @@ Siempre que alguien muestra angustia por estos primeros desacuerdos canónicos, 
 
 Todo esto nos recuerda que Dios a veces usa procesos históricos normales para lograr sus fines. Y esos procesos históricos no siempre son pulcros y prolijos. Pero, esto no debe restar valor a la realidad de que los fines siguen siendo de Dios.
 
+--------
+
+De la serie [Diez hechos básicos sobre el canon del NT que todo cristiano debe memorizar](michael-kruger-diez-hechos-basicos-canon-nt-todo-cristiano-debe-memorizar).
+
 <div class="alert alert--secondary" role="info">
   Escrito por Michael J. Kruger. Puedes leer el <a href="http://wp.me/p2dVaB-jB">artículo original aquí</a>.
 </div>

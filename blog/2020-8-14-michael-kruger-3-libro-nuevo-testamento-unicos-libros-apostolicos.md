@@ -27,6 +27,10 @@ Por supuesto, algunos eruditos modernos disputan la autoría apostólica de algu
 
 Al final, el canon del Nuevo Testamento existe debido a una creencia cristiana primitiva de que los apóstoles hablaban por Cristo. Esa creencia llevó a los cristianos a valorar los libros apostólicos. Y esos libros apostólicos eventualmente formaron el Nuevo Testamento que conocemos hoy.
 
+--------
+
+De la serie [Diez hechos básicos sobre el canon del NT que todo cristiano debe memorizar](michael-kruger-diez-hechos-basicos-canon-nt-todo-cristiano-debe-memorizar).
+
 <div class="alert alert--secondary" role="info">
   Escrito por Michael J. Kruger. Puedes leer el <a href="http://wp.me/p2dVaB-ep">artículo original aquí</a>.
 </div> 

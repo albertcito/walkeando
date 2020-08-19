@@ -28,6 +28,10 @@ Lo mismo ocurrió con el canon del Antiguo Testamento. Jesús mismo usó y citó
 
 Al final, ciertamente podemos reconocer que los humanos jugaron un papel en el proceso canónico. Pero no el papel que se les atribuye tan comúnmente. Los humanos no determinaron el canon, respondieron a él. En este sentido, podemos decir que el canon realmente se eligió a sí mismo.
 
+--------
+
+De la serie [Diez hechos básicos sobre el canon del NT que todo cristiano debe memorizar](michael-kruger-diez-hechos-basicos-canon-nt-todo-cristiano-debe-memorizar).
+
 <div class="alert alert--secondary" role="info">
   Escrito por Michael J. Kruger. Puedes leer el <a href="http://wp.me/p2dVaB-jk">artículo original aquí</a>.
 </div> 

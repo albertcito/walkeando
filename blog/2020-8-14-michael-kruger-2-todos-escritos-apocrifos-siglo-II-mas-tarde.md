@@ -29,6 +29,10 @@ Para ser claros, esto no sugiere que sea imposible, en principio, que una escrit
 
 Al final, los escritos apócrifos constituyen una fuente interesante y fascinante para el estudio del cristianismo primitivo. Pero, en gran parte debido a su fecha tardía, no ofrecen una versión más convincente del cristianismo que los propios escritos del Nuevo Testamento.
 
+--------
+
+De la serie [Diez hechos básicos sobre el canon del NT que todo cristiano debe memorizar](michael-kruger-diez-hechos-basicos-canon-nt-todo-cristiano-debe-memorizar).
+
 <div class="alert alert--secondary" role="info">
   Escrito por Michael J. Kruger. Puedes leer el <a href="http://wp.me/p2dVaB-dZ">artículo original aquí</a>.
 </div> 

@@ -31,6 +31,10 @@ Por supuesto, debido a que estos dos pasajes parecen citar otros libros del NT c
 
 Si los escritores del NT estaban citando a otros escritores del NT como Escritura, entonces eso sugiere que el canon no fue un desarrollo eclesiástico posterior, sino algo temprano e innato de la fe cristiana primitiva. Y ese es un hecho básico que todos los cristianos deberían saber.
 
+--------
+
+De la serie [Diez hechos básicos sobre el canon del NT que todo cristiano debe memorizar](michael-kruger-diez-hechos-basicos-canon-nt-todo-cristiano-debe-memorizar).
+
 <div class="alert alert--secondary" role="info">
   Escrito por Michael J. Kruger. Puedes leer el <a href="http://wp.me/p2dVaB-eO">artículo original aquí</a>.
 </div> 

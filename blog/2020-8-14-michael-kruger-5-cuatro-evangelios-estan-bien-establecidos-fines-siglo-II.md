@@ -47,6 +47,10 @@ Al final, existen amplias razones para rechazar la idea de que Ireneo fue el inv
 
 [7] Haer 3.1.1.
 
+--------
+
+De la serie [Diez hechos básicos sobre el canon del NT que todo cristiano debe memorizar](michael-kruger-diez-hechos-basicos-canon-nt-todo-cristiano-debe-memorizar).
+
 <div class="alert alert--secondary" role="info">
   Escrito por Michael J. Kruger. Puedes leer el <a href="http://wp.me/p2dVaB-gh">artículo original aquí</a>.
 </div> 

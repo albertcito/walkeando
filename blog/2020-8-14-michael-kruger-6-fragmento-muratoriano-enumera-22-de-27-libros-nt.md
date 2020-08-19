@@ -29,6 +29,10 @@ Por lo tanto, el fragmento de Muratorian se erige como un recordatorio de dos he
 
 [1] Verheyden, "Canon Muratori", 556.
 
+--------
+
+De la serie [Diez hechos básicos sobre el canon del NT que todo cristiano debe memorizar](michael-kruger-diez-hechos-basicos-canon-nt-todo-cristiano-debe-memorizar).
+
 <div class="alert alert--secondary" role="info">
   Escrito por Michael J. Kruger. Puedes leer el <a href="http://wp.me/p2dVaB-im">artículo original aquí</a>.
 </div> 

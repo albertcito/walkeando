@@ -31,13 +31,9 @@ J.A. Brooks, por ejemplo, ha observado que Clemente cita los libros canónicos �
 
 En resumen, los cristianos deben memorizar este simple hecho sobre el canon del Nuevo Testamento: los primeros cristianos usaron muchos otros libros además de los que se incluyeron en nuestras Biblias. Pero esto no debería sorprendernos. Porque, de hecho, todavía hacemos lo mismo hoy a pesar de que tenemos un Nuevo Testamento que ha sido establecido por más de 1600 años.
 
- --------
+--------
 
-[1] Dungan, Constantine's Bible, 52.
-
-[2] Brooks, "Clement of Alexandria", pág. 48.
-
-[3] Bernard Mutschler, Irenäus als johanneischer Theologe (Tübingen: Mohr Siebeck, 2004), 101.
+De la serie [Diez hechos básicos sobre el canon del NT que todo cristiano debe memorizar](michael-kruger-diez-hechos-basicos-canon-nt-todo-cristiano-debe-memorizar).
 
 
 <div class="alert alert--secondary" role="info">

@@ -43,25 +43,10 @@ Al final, los padres de la iglesia nos enseñan una verdad muy importante. El ca
 
 O, como solía decir el profesor de Harvard Arthur Darby Nock sobre la formación del canon: “Las carreteras más transitadas de Europa son las mejores; por eso viajan tanto ”. [9]
 
- --------
+--------
 
-[1] Princ. 4.1.6.
+De la serie [Diez hechos básicos sobre el canon del NT que todo cristiano debe memorizar](michael-kruger-diez-hechos-basicos-canon-nt-todo-cristiano-debe-memorizar).
 
-[2] Com. Mate. 10.17.
-
-[3] Cels. 3.21.
-
-[4] Eusebio, Hist. eccl. 6.25.12; traducción mía.
-
-[5] Discurso a los griegos, 29.
-
-[6] Prólogo a Com. Phlm.
-
-[7] Hom. Jo. 1.2.
-
-[8] Protr. 9.
-
-[9] Metzger, Canon del Nuevo Testamento, 286.
 
 <div class="alert alert--secondary" role="info">
   Escrito por Michael J. Kruger. Puedes leer el <a href="http://wp.me/p2dVaB-kN">artículo original aquí</a>.

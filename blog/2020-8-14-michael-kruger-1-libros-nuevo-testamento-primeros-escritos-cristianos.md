@@ -25,6 +25,10 @@ Para ser claros, no estamos argumentando aquí que los libros sean canónicos si
 
 Al final, todo cristiano debería recordar un hecho básico, a saber, que los libros del Nuevo Testamento son distintivos porque, en términos generales, son los primeros escritos cristianos que poseemos. Ninguno es anterior. Si es así, entonces parece que los libros incluidos en el Nuevo Testamento no son tan arbitrarios como algunos quieren hacernos creer. Al contrario, parece que estos son precisamente los libros que incluiríamos si quisiéramos acceder al cristianismo auténtico.
 
+--------
+
+De la serie [Diez hechos básicos sobre el canon del NT que todo cristiano debe memorizar](michael-kruger-diez-hechos-basicos-canon-nt-todo-cristiano-debe-memorizar).
+
 <div class="alert alert--secondary" role="alert">
   Escrito por Michael J. Kruger. Puedes leer el <a href="http://wp.me/p2dVaB-dB">artículo original aquí</a>.
 </div>
