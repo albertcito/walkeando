@@ -29,7 +29,7 @@ Convencer a las personas para que cambien su perspectiva suele ser una tarea inf
 
 
 -----
-De la seria [Economía Cristiana - El Estado](/blog/gary-north-el-estado–indice)
+De la seria [Economía Cristiana - El Estado](/blog/gary-north-el-estado-indice)
 
 <div class="alert alert--secondary" role="info">
   Escrito por Gary North, en el volumen 4 de la obra magna de Gary North llamado <a href="https://www.garynorth.com/public/20630.cfm">Christian Economics: Scholar's Edition </a>.

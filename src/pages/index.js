@@ -64,7 +64,7 @@ const features = [
          ¿Los impuestos son válidos? Muchas preguntas más y como estas son respondidas desde una perspectiva Biblia. 
       </>
     ),
-    link: '/blog/gary-north-el-estado–indice/',
+    link: '/blog/gary-north-el-estado-indice',
   },
   {
     title: <>Mi amigo musulman</>,
@@ -125,7 +125,9 @@ function Feature({imageUrl, title, description, link}) {
     <div className={clsx('col col--4', styles.feature)}>
       {imgUrl && (
         <div className={clsx('text--center')}>
-          <img className={styles.featureImage} src={imgUrl} alt={title} />
+          <Link to={useBaseUrl(link)}>
+            <img className={styles.featureImage} src={imgUrl} alt={title} />
+          </Link>
         </div>
       )}
       <h3>

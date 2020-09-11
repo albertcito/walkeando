@@ -112,7 +112,7 @@ Tiene que haber un sistema de regulación gubernamental, que incluya la cuarente
 En términos del costo total del gobierno, estos son gastos menores. Las sociedades los han utilizado a lo largo de la historia. La mayoría de la gente los acepta. No existe una oposición bien organizada a su uso. En comparación con los gastos masivos del estado moderno en proyectos que están claramente prohibidos por la Biblia, estas excepciones no constituyen una amenaza para la libertad de las personas que guardan el pacto. Además, los economistas del libre mercado que negarían cualquiera de estos gastos no han desarrollado monografías completas sobre cómo el libre mercado podría alcanzar estos objetivos. Son objetivos legítimos. Los economistas del libre mercado deben enfrentarse a este hecho: no pueden vencer a algo sin nada.
 
 -----
-De la seria [Economía Cristiana - El Estado](/blog/gary-north-el-estado–indice)
+De la seria [Economía Cristiana - El Estado](/blog/gary-north-el-estado-indice)
 
 <div class="alert alert--secondary" role="info">
   Escrito por Gary North, en el volumen 4 de la obra magna de Gary North llamado <a href="https://www.garynorth.com/public/20622.cfm">Christian Economics: Scholar's Edition </a>.

@@ -160,7 +160,7 @@ Para restaurar el gobierno civil bíblico, los ciudadanos deben restaurar los l�
 La única forma segura de cambiar las burocracias es recortando su financiación. Esto debería hacerse por principio. Esto requerirá que los gobiernos civiles del mundo no tengan la autoridad para aumentar los impuestos por encima del umbral del diezmo: el 10% de los ingresos netos. Cuando los gobiernos civiles imponen impuestos superiores al diezmo, están anunciando implícitamente que tienen mayor autoridad que Dios. Esto es inherentemente satánico. Por lo tanto, la restauración del gobierno civil bíblico debe comenzar con una reducción drástica de los impuestos. Hasta que esto se haga, los que guardan el pacto vivirán en un mundo gobernado por violadores del pacto. Si los que cumplen el pacto votan del lado de los que rompen el pacto para mantener el nivel tiránico de impuestos existente, serán como los residentes de Egipto durante los faraones de la opresión. La diferencia es esta: no clamarán a Dios por liberación (Éxodo 3: 9).
 
 -----
-De la seria [Economía Cristiana - El Estado](/blog/gary-north-el-estado–indice)
+De la seria [Economía Cristiana - El Estado](/blog/gary-north-el-estado-indice)
 
 <div class="alert alert--secondary" role="info">
   Escrito por Gary North, en el volumen 4 de la obra magna de Gary North llamado <a href="https://www.garynorth.com/public/20617.cfm">Christian Economics: Scholar's Edition </a>.

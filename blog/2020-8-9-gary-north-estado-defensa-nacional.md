@@ -99,7 +99,7 @@ La ley mosaica puso límites a la expansión del sistema de defensa nacional del
 La teoría judicial cristiana enseña que el estado tiene una función legítima para llevar a cabo la guerra. La defensa nacional es un gasto fiscal legítimo. Pero la autoridad del estado no es ilimitada. Los varones tienen derecho a rechazar la llamada para servir en las fuerzas armadas. Tienen derecho a vetar ese llamamiento en sus propias vidas. Mises estaba equivocado cuando escribió esto: "Aquel que en nuestra época se opone a los armamentos y al servicio militar obligatorio es, tal vez sin que él lo sepa, un cómplice de aquellos que apuntan a la esclavitud de todos".
 
 -----
-De la seria [Economía Cristiana - El Estado](/blog/gary-north-el-estado–indice)
+De la seria [Economía Cristiana - El Estado](/blog/gary-north-el-estado-indice)
 
 <div class="alert alert--secondary" role="info">
   Escrito por Gary North, en el volumen 4 de la obra magna de Gary North llamado <a href="https://www.garynorth.com/public/20614.cfm">Christian Economics: Scholar's Edition </a>.
