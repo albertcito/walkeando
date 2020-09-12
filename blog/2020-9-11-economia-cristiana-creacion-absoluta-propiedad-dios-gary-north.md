@@ -1,6 +1,6 @@
 ---
-id: absoluta-propiedad-dios-gary-north
-title: 1. Absoluta propiedad de Dios
+id: economia-cristiana-creacion-absoluta-propiedad-dios-gary-north
+title: Absoluta propiedad de Dios
 author: Albert
 author_title: Fundador de Sanando el Mundo
 author_url: http://sanandoelmundo.com/
@@ -125,5 +125,5 @@ Esto nos lleva a una discusión más detallada de lo que llamo el pacto de domin
 -----
 
 <div class="alert alert--secondary" role="info">
-  Escrito por Gary North, en el volumen 4 de la obra magna de Gary North llamado <a href="https://www.garynorth.com/public/department188.cfm">Christian Economics: Scholar's Edition</a>. Capítulo 1: <a href="https://www.garynorth.com/public/16667.cfm">Ownership</a>.
+  Escrito por Gary North, en el volumen 4 de la obra magna de Gary North llamado <a href="https://www.garynorth.com/public/department188.cfm">Christian Economics: Scholar's Edition</a>. <a href="https://www.garynorth.com/public/16667.cfm">Capítulo 1: Ownership</a>.
 </div> 
