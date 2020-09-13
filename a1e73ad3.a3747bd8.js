@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[97],{154:function(o){o.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"economia","name":"econom\xeda","count":4,"permalink":"/blog/tags/economia"}')}}]);
