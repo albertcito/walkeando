@@ -1,6 +1,6 @@
 ---
 id: economia-cristiana-creacion-mayordomia-gary-north
-title: Mayordomía
+title: Creación y mayordomía
 author: Albert
 author_title: Fundador de Sanando el Mundo
 author_url: http://sanandoelmundo.com/
@@ -154,7 +154,6 @@ Con respecto a todo lo demás en el jardín del mundo, tenían plena autoridad. 
 
 Nada de esto ha cambiado como resultado de la caída del hombre. El hombre todavía se define como un agente representativo de Dios, tanto judicial como económicamente. El hombre todavía se define en términos de la asignación dada por Dios en el momento de su creación. De hecho, Dios anunció esto incluso antes de que fueran creados Adán y Eva. El anuncio comenzaba: "Déjanos". Adán y Eva no estuvieron presentes para escuchar ese anuncio. Fue hecho en su nombre por pacto, pero no tuvieron parte en aceptarlo en el momento en que se hizo el anuncio. La gracia precede a la ley, pero siempre hay ley en un pacto. Siempre hay sanciones, tanto positivas como negativas. La economía cristiana enseña explícitamente que la propiedad se delega en Dios y, por lo tanto, es representativa, no autónoma. Cualquier intento de decir que la propiedad del hombre es autónoma, incluida la propiedad de sí mismo, es una negación de la doctrina bíblica de la propiedad. Me ocuparé de esto con más detalle en el capítulo 7.
 
-
 <div class="alert alert--secondary" role="info">
-  Escrito por Gary North, en el volumen 4 de la obra magna de Gary North llamado <a href="https://www.garynorth.com/public/department188.cfm">Christian Economics: Scholar's Edition</a>. <a href="https://www.garynorth.com/public/16562.cfm">Capítulo 1: Ownership</a>.
+  Escrito por Gary North, en el volumen 1 de la obra magna de Gary North llamado <a href="https://www.garynorth.com/public/department188.cfm">Christian Economics: Scholar's Edition</a>. <a href="https://www.garynorth.com/public/16562.cfm">Capítulo 1: Ownership</a>.
 </div> 
