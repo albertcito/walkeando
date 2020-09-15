@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[26],{82:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"gary-north","name":"gary north","count":12,"permalink":"/blog/tags/gary-north"}')}}]);
