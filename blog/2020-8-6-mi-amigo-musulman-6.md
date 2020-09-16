@@ -6,7 +6,7 @@ author_title: Fundador de Sanando el Mundo
 author_url: http://sanandoelmundo.com/
 author_image_url: https://lh3.googleusercontent.com/ogw/ADGmqu_V6iQnJvuIOUFQJ8ebZQW6vvBd8lk0fipmF92Z
 tags: [islam, evangelismo, evangelio, Dios]
-image: https://declaradojusto.files.wordpress.com/2017/07/cabezas-islam-y-cristianismo.jpg
+image: https://sanandoelmundo.com/img/blog/musuman-cristiano.png
 ---
 
 Finalmente pude hablar con tres musulmanes, todos occidentalizados, incluso uno de ellos era cristiano y se convirtió al Islam, los tres me dieron las mismas respuestas acerca de la salvación por obras que propone su religión, solo uno de ellos pudo entender que es absolutamente contradictorio, con el que tuve más tiempo de hablar (era de Pakistan pero crecio en Alemania).

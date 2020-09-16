@@ -6,7 +6,7 @@ author_title: Fundador de Sanando el Mundo
 author_url: http://sanandoelmundo.com/
 author_image_url: https://lh3.googleusercontent.com/ogw/ADGmqu_V6iQnJvuIOUFQJ8ebZQW6vvBd8lk0fipmF92Z
 tags: [cherem, santisimo, levítico, teología biblica]
-image: https://declaradojusto.files.wordpress.com/2020/08/moises-arbol-ardiendo.png
+image: https://sanandoelmundo.com/img/blog/moises.png
 --- 
 
 Si bien muchas cosas se describen como “santas” en las Escrituras, un número limitado de cosas específicas se describen como “santísimas”. El primero es el "lugar santísimo" en sí mismo dentro del tabernáculo, y luego el templo. La primera vez que la frase “santísimo” aparece en las Escrituras es Éxodo 26:33–34, que describe el velo creado para separar el lugar santísimo del lugar santo dentro del tabernáculo. El escritor de Hebreos luego describe esta realidad claramente:

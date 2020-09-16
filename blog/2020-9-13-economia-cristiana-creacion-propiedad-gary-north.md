@@ -6,7 +6,7 @@ author_title: Fundador de Sanando el Mundo
 author_url: http://sanandoelmundo.com/
 author_image_url: https://lh3.googleusercontent.com/ogw/ADGmqu_V6iQnJvuIOUFQJ8ebZQW6vvBd8lk0fipmF92Z
 tags: [economía, propiedad, dios, creación, gary north]
-image: https://declaradojusto.files.wordpress.com/2020/08/gary-north.jpg
+image: https://sanandoelmundo.com/img/blog/planeta-tierra-luna-sol.png
 --- 
 <center>
 Tomó, pues, Jehová Dios al hombre y lo puso en el huerto de Edén, para que lo labrara y lo cuidara. Y mandó Jehová Dios al hombre, diciendo: «De todo árbol del huerto podrás comer; pero del árbol del conocimiento del bien y del mal no comerás, porque el día que de él comas, ciertamente morirás.» (Génesis 2:15-17)
@@ -131,6 +131,10 @@ Conclusión
 La caída del hombre ocurrió como resultado de la violación por parte de la humanidad de los derechos de propiedad privada de Dios. Adán y Eva violaron los límites judiciales y éticos que Dios colocó alrededor del árbol del conocimiento del bien y del mal. Dios le había advertido a Adán del castigo por tal violación: la muerte. Adán le había advertido a Eva. Eva citó esta advertencia a la serpiente. Pero la tentación de la serpiente prevaleció. Decidieron probar la precisión de la advertencia de Dios. Al realizar este experimento, Adán afirmó su propia autonomía. Probaría la palabra de Dios. Dios ya no probaría la lealtad de Adán.
 
 Este acto de robo tuvo históricamente enormes consecuencias. Pero los cristianos rara vez piensan en el mundo que sus padres del pacto perdieron como resultado de ese acto de robo. La centralidad del robo en la historia de la caída del hombre debería recordar a los cristianos la magnitud de la hostilidad de Dios hacia el robo. El anuncio de Dios de la sanción contra tal robo debería haber sido suficiente para persuadir a Adán y Eva de que no se permitieran violar los límites judiciales y éticos que Dios puso alrededor del árbol del conocimiento del bien y del mal. Pero no fue suficiente. Tampoco el mandamiento contra el robo de los Diez Mandamientos.
+
+------
+
+Esta publicación es parte de [La Creación](/blog/economia-cristiana-creacion-indice-gary-north/) revisa el indice [aquí](/blog/economia-cristiana-creacion-indice-gary-north/).
 
 <div class="alert alert--secondary" role="info">
   Escrito por Gary North, en el volumen 1 de la obra magna de Gary North llamado <a href="https://www.garynorth.com/public/department188.cfm">Christian Economics: Scholar's Edition</a>. <a href="https://www.garynorth.com/public/16563.cfm">Capítulo 3: Property</a>.

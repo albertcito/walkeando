@@ -6,7 +6,7 @@ author_title: Fundador de Sanando el Mundo
 author_url: http://sanandoelmundo.com/
 author_image_url: https://lh3.googleusercontent.com/ogw/ADGmqu_V6iQnJvuIOUFQJ8ebZQW6vvBd8lk0fipmF92Z
 tags: [economía, mayordomía, dios, creación, gary north]
-image: https://declaradojusto.files.wordpress.com/2020/08/gary-north.jpg
+image: https://sanandoelmundo.com/img/blog/planeta-tierra-luna-sol.png
 --- 
 <center>
 Entonces dijo Dios: Hagamos al hombre a nuestra imagen, conforme a nuestra semejanza; y señoree en los peces del mar, en las aves de los cielos, en las bestias, en toda la tierra, y en todo animal que se arrastra sobre la tierra. Y creó Dios al hombre a su imagen, a imagen de Dios lo creó; varón y hembra los creó. Y los bendijo Dios, y les dijo: Fructificad y multiplicaos; llenad la tierra, y sojuzgadla, y señoread en los peces del mar, en las aves de los cielos, y en todas las bestias que se mueven sobre la tierra (Génesis 1: 26-28)
@@ -153,6 +153,10 @@ Dios es el dueño absoluto de toda la creación. En Su gracia, creó al hombre p
 Con respecto a todo lo demás en el jardín del mundo, tenían plena autoridad. Podían hacer lo que quisieran con él. Ellos y sus hijos y nietos se esparcirían por la faz de la tierra, poniendo al mundo entero bajo su autoridad. Pero su autoridad no era autónoma. Su autoridad era representativa. Era representativo judicialmente y se les exigiría responsabilidades. Pero también era representativo económicamente, y prosperarían en la medida en que fueran eficaces para someter la tierra.
 
 Nada de esto ha cambiado como resultado de la caída del hombre. El hombre todavía se define como un agente representativo de Dios, tanto judicial como económicamente. El hombre todavía se define en términos de la asignación dada por Dios en el momento de su creación. De hecho, Dios anunció esto incluso antes de que fueran creados Adán y Eva. El anuncio comenzaba: "Déjanos". Adán y Eva no estuvieron presentes para escuchar ese anuncio. Fue hecho en su nombre por pacto, pero no tuvieron parte en aceptarlo en el momento en que se hizo el anuncio. La gracia precede a la ley, pero siempre hay ley en un pacto. Siempre hay sanciones, tanto positivas como negativas. La economía cristiana enseña explícitamente que la propiedad se delega en Dios y, por lo tanto, es representativa, no autónoma. Cualquier intento de decir que la propiedad del hombre es autónoma, incluida la propiedad de sí mismo, es una negación de la doctrina bíblica de la propiedad. Me ocuparé de esto con más detalle en el capítulo 7.
+
+------
+
+Esta publicación es parte de [La Creación](/blog/economia-cristiana-creacion-indice-gary-north/) revisa el indice [aquí](/blog/economia-cristiana-creacion-indice-gary-north/).
 
 <div class="alert alert--secondary" role="info">
   Escrito por Gary North, en el volumen 1 de la obra magna de Gary North llamado <a href="https://www.garynorth.com/public/department188.cfm">Christian Economics: Scholar's Edition</a>. <a href="https://www.garynorth.com/public/16562.cfm">Capítulo 1: Ownership</a>.

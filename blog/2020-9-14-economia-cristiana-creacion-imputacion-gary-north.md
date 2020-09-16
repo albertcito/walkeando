@@ -6,11 +6,14 @@ author_title: Fundador de Sanando el Mundo
 author_url: http://sanandoelmundo.com/
 author_image_url: https://lh3.googleusercontent.com/ogw/ADGmqu_V6iQnJvuIOUFQJ8ebZQW6vvBd8lk0fipmF92Z
 tags: [economía, imputación, dios, creación, gary north]
-image: https://declaradojusto.files.wordpress.com/2020/08/gary-north.jpg
+image: https://sanandoelmundo.com/img/blog/planeta-tierra-luna-sol.png
 --- 
 <center>
 Y vio Dios todo cuanto había hecho, y era bueno en gran manera. Y fue la tarde y la mañana del sexto día (Génesis 1:31)
 </center>
+
+Análisis
+--------
 
 El punto cuatro del pacto bíblico son las sanciones. Pregunta: "¿Qué obtengo si obedezco? ¿Desobedezco?" ¿Cómo se relaciona esto con la imputación?
 
@@ -114,9 +117,13 @@ Si Adán y Eva confiaban en Dios, tendrían esperanza. Sus herederos impondrían
 Conclusión
 ----------
 
-Adán y Eva fallaron en su trabajo de imputación. No atribuyeron gran valor a la palabra de Dios. No atribuyeron gran valor al árbol de la vida. No imputaron un valor alto a los otros árboles y activos de capital en la creación. Le atribuyeron un gran valor a la palabra de la serpiente. Le atribuyeron un gran valor al árbol prohibido y la sabiduría prometida que proporcionaría comer su fruto. Pero sí imputaron valor. La imputación es un concepto ineludible. Nunca se trata de imputación versus no imputación. Siempre se trata de imputar valor en términos de un orden de ley específico: Dios o el hombre autónomo autoproclamado.
+Adán y Eva fallaron en su trabajo de imputación. No atribuyeron gran valor a la palabra de Dios. No atribuyeron gran valor al árbol de la vida. No imputaron un valor alto a los otros árboles y activos de capital en la creación. Le atribuyeron un gran valor a la palabra de la serpiente. Le atribuyeron un gran valor al árbol prohibido y la sabiduría prometida que proporcionaría comer su fruto. La imputación es un concepto ineludible. Nunca se trata de imputación versus no imputación. Siempre se trata de imputar valor en términos de un orden de ley específico: Dios o el hombre autónomo autoproclamado.
 
 La clave para dominar el jardín era la obediencia a Dios. Les había dado una sola prohibición. Lo habían desobedecido. Ahora Dios multiplicaría sus leyes, porque toda la tierra se había convertido en un campo de batalla ético entre el reino de Dios y el reino del hombre autónomo autoproclamado. Esta guerra se reveló en el asesinato de Abel por Caín (Génesis 4). No habría ningún tratado de paz permanente en la historia entre estos reinos. Solo habría treguas temporales o ceses del fuego. Cada lado usaría la tregua para planificar una nueva campaña. No puede haber neutralidad ética entre los dos reinos. Jesús dijo: "El que no está conmigo, está contra mí; y el que conmigo no recoge, desparrama" (Mateo 12:30). En el jardín solo había un campo de batalla: dentro del límite alrededor del árbol prohibido. Allí comenzaría la guerra entre los dos reinos. El árbol estaba prohibido. El resto de la creación estaba al límite. La tarea de aplicar la ley de Dios a circunstancias específicas fue fácil. Solo había una ley: evitar el árbol. No hubo amenaza de sanciones negativas fuera de ese límite. No había malas hierbas. No hubo sudor. Ese era el mundo que hemos perdido.
+
+------
+
+Esta publicación es parte de [La Creación](/blog/economia-cristiana-creacion-indice-gary-north/) revisa el indice [aquí](/blog/economia-cristiana-creacion-indice-gary-north/).
 
 <div class="alert alert--secondary" role="info">
   Escrito por Gary North, en el volumen 1 de la obra magna de Gary North llamado <a href="https://www.garynorth.com/public/department188.cfm">Christian Economics: Scholar's Edition</a>. <a href="https://www.garynorth.com/public/16564.cfm">Capítulo 4: Imputation</a>.

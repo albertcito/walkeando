@@ -5,7 +5,7 @@ module.exports = {
   baseUrl: '/',
   onBrokenLinks: 'throw',
   favicon: 'img/favicon.ico',
-  organizationName: 'albertcito', 
+  organizationName: 'albertcito',
   projectName: 'walkeando',
   themeConfig: {
     navbar: {
@@ -16,13 +16,13 @@ module.exports = {
       },
       items: [
         {
-          to: 'blog', 
-          label: 'Blog', 
+          to: 'blog',
+          label: 'Blog',
           position: 'left'
         },
         {
-          to: 'que-creemos', 
-          label: 'Creemos', 
+          to: 'que-creemos',
+          label: 'Creemos',
           position: 'left'
         },
         {
@@ -35,7 +35,7 @@ module.exports = {
     footer: {
       style: 'dark',
       links: [],
-      copyright: 
+      copyright:
       `Copyright © ${new Date().getFullYear()} Sanando el Mundo. Built with Docusaurus. <br />
         Icon made by Freepik from www.flaticon.com
       `,

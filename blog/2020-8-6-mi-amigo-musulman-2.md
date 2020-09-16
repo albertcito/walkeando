@@ -6,7 +6,7 @@ author_title: Fundador de Sanando el Mundo
 author_url: http://sanandoelmundo.com/
 author_image_url: https://lh3.googleusercontent.com/ogw/ADGmqu_V6iQnJvuIOUFQJ8ebZQW6vvBd8lk0fipmF92Z
 tags: [islam, evangelismo, evangelio, Dios]
-image: https://declaradojusto.files.wordpress.com/2017/07/cabezas-islam-y-cristianismo.jpg
+image: https://sanandoelmundo.com/img/blog/musuman-cristiano.png
 ---
 
 En la publicación anterior le mostré a mi amigo que Dios no puede perdonar los pecados sin hacer justicia, porque si lo hiciera como propone el islam, entonces ese dios sería injusto y mentiroso, por lo tanto falso, Dios no puede perdonar los pecados sin dejar de ser justo.

@@ -6,7 +6,7 @@ author_title: Fundador de Sanando el Mundo
 author_url: http://sanandoelmundo.com/
 author_image_url: https://lh3.googleusercontent.com/ogw/ADGmqu_V6iQnJvuIOUFQJ8ebZQW6vvBd8lk0fipmF92Z
 tags: [estado, anarcocapitalismo, libertarianismo, Gary North]
-image: https://declaradojusto.files.wordpress.com/2020/08/gary-north.jpg
+image: https://sanandoelmundo.com/img/blog/el-estado.png
 ---
 
 > Sométase toda persona a las autoridades superiores; porque no hay autoridad sino de parte de Dios, y las que hay, por Dios han sido establecidas. De modo que quien se opone a la autoridad, a lo establecido por Dios resiste; y los que resisten, acarrean condenación para sí mismos. Porque los magistrados no están para infundir temor al que hace el bien, sino al malo. ¿Quieres, pues, no temer la autoridad? Haz lo bueno, y tendrás alabanza de ella; porque es servidor de Dios para tu bien. Pero si haces lo malo, teme; porque no en vano lleva la espada, pues es servidor de Dios, vengador para castigar al que hace lo malo. Por lo cual es necesario estarle sujetos, no solamente por razón del castigo, sino también por causa de la conciencia.  Pues por esto pagáis también los tributos, porque son servidores de Dios que atienden continuamente a esto mismo. Pagad a todos lo que debéis: al que tributo, tributo; al que impuesto, impuesto; al que respeto, respeto; al que honra, honra. (Romanos 13:1-7)

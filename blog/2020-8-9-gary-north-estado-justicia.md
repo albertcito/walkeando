@@ -6,7 +6,7 @@ author_title: Fundador de Sanando el Mundo
 author_url: http://sanandoelmundo.com/
 author_image_url: https://lh3.googleusercontent.com/ogw/ADGmqu_V6iQnJvuIOUFQJ8ebZQW6vvBd8lk0fipmF92Z
 tags: [estado, anarcocapitalismo, libertarianismo, justicia, Gary North]
-image: https://declaradojusto.files.wordpress.com/2020/08/gary-north.jpg
+image: https://sanandoelmundo.com/img/blog/el-estado.png
 ---
 
 > La misma ley será para el natural, y para el extranjero que habitare entre vosotros. (Exodo 12:49)

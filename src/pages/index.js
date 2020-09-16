@@ -9,20 +9,34 @@ import styles from './styles.module.css';
 const features = [
   {
     title: <>Entendiendo la Biblia en 90 minutos</>,
-    imageUrl: 'img/child-reading-bible.jpg',
+    imageUrl: 'img/blog/child-reading-bible.jpg',
     description: (
       <>
         A veces es dificil entender las escrituras, muchas veces leemos y no entendemos
-        lo que dice. Aquí tenemos GRATIS un libro que cuenta de que se trata la Biblia, 
-        cual es la diferencia entre el Antiguo y Nuevo testamento, quien es 
+        lo que dice. Aquí tenemos GRATIS un libro que cuenta de que se trata la Biblia,
+        cual es la diferencia entre el Antiguo y Nuevo testamento, quien es
         Jesús, que dice del fin del mundo y más.
       </>
     ),
     link: '/biblia-90-minutos',
   },
   {
+    title: <>La Creación</>,
+    imageUrl: 'img/blog/planeta-tierra-luna-sol.png',
+    description: (
+      <>
+        Es una historia triste de como nuestros padres perdieron el inmenso capital
+        que Dios les había entregado, empezando con la relación directa con Dios,
+        la santidad del lugar y el beneficio de la tierra que producía todo tipo de
+        material y era fácil de trabajar. De cómo perdimos la oportunidad de vivir
+        en un lugar lleno de armonía y amor por nuestro prójimo, en la presencia de Dios.
+      </>
+    ),
+    link: '/blog/economia-cristiana-creacion-indice-gary-north',
+  },
+  {
     title: <>Introducción a Cherem</>,
-    imageUrl: 'img/moises.png',
+    imageUrl: 'img/blog/moises.png',
     description: (
       <>
         El concepto de acercarse al lugar santísimo de Dios aparece comenzando en el Edén y se repite en el tabernáculo, el templo, varios aspectos de la ley, la historia del antiguo Israel, todo a través de los profetas, y en las amenazas de una gran tribulación durante el últimos días del Antiguo Pacto, así como en las promesas de un futuro templo en el Nuevo Pacto.
@@ -32,12 +46,12 @@ const features = [
   },
   {
     title: <>The Chosen es un serie realmente encantadora</>,
-    imageUrl: 'img/the-chosen-review.png',
+    imageUrl: 'img/blog/the-chosen-review.png',
     description: (
       <>
-        Las novelas, los dramas y las películas tienen un papel importante 
-        que desempeñar en la comunicación del dogma, y ​​The Chosen es otro 
-        ejemplo perfecto de una historia en la que el dogma y el drama se 
+        Las novelas, los dramas y las películas tienen un papel importante
+        que desempeñar en la comunicación del dogma, y ​​The Chosen es otro
+        ejemplo perfecto de una historia en la que el dogma y el drama se
         apoyan mutuamente.
       </>
     ),
@@ -45,10 +59,10 @@ const features = [
   },
   {
     title: <>Diez hechos básicos sobre el canon del NT que todo cristiano debe memorizar</>,
-    imageUrl: 'img/new-testament.png',
+    imageUrl: 'img/blog/new-testament.png',
     description: (
       <>
-       ¿Cómo se formo la Biblia? ¿Por qué esos libros y no otros? y ¿Qué pasa con los 
+       ¿Cómo se formo la Biblia? ¿Por qué esos libros y no otros? y ¿Qué pasa con los
        apocrifos? esto y más en esta fascinante serie
       </>
     ),
@@ -56,62 +70,49 @@ const features = [
   },
   {
     title: <>El Estado desde una perspectiva Biblica</>,
-    imageUrl: 'img/gary-north.png',
+    imageUrl: 'img/blog/el-estado.png',
     description: (
       <>
-         Te has preguntado alguna vez ¿Qué dice la Biblia respecto al estado? 
-         ¿Qué áreas es permitido que el estado afecte a tu vida y a la vida de la sociedad? 
-         ¿Los impuestos son válidos? Muchas preguntas más y como estas son respondidas desde una perspectiva Biblia. 
+         Te has preguntado alguna vez ¿Qué dice la Biblia respecto al estado?
+         ¿Qué áreas es permitido que el estado afecte a tu vida y a la vida de la sociedad?
+         ¿Los impuestos son válidos? Muchas preguntas más y como estas son respondidas desde una perspectiva Biblia.
       </>
     ),
     link: '/blog/gary-north-el-estado-indice',
   },
   {
     title: <>Mi amigo musulman</>,
-    imageUrl: 'img/musuman-cristiano.png',
+    imageUrl: 'img/blog/musuman-cristiano.png',
     description: (
       <>
-        En 2017 estuve viviendo en una casa con muchos musulmanes, me hice amigo de uno 
-        de ellos y siempre teniamos conversaciones acerca de nuestra fe y diferencias. Te 
+        En 2017 estuve viviendo en una casa con muchos musulmanes, me hice amigo de uno
+        de ellos y siempre teniamos conversaciones acerca de nuestra fe y diferencias. Te
         invito a leer mi experiencia y argumentos respecto al cristianismo y el islam.
       </>
     ),
     link: '/blog/mi-amigo-musulman/',
   },
   {
-    title: <>Cuarentena y la Biblia</>,
-    imageUrl: 'img/corona-virus.png',
-    description: (
-      <>
-        Te has preguntado ¿El gobierno civil tiene el derecho ordenar 
-        cerrar propiedad privada en cuarentenas? ¿O esto sobrepasa el poder 
-        del gobierno civil en la vida de las personas y de las iglesias? Aquí
-        te ofrecemos una respuesta a está interrogante!
-      </>
-    ),
-    link: '/blog/cuarentena-biblia/',
-  },
-  {
     title: <>La remanente que se mantuvo firme</>,
-    imageUrl: 'img/pray.jpg',
+    imageUrl: 'img/blog/pray.jpg',
     description: (
       <>
-        Esta es una historia inspiradora de la mayor crisis que vivió la Iglesia Anglicana 
-        de Canada entre dos fracciones quienes rechazaban la palabra de Dios y el 
-        remanente que se mantuvo fiel al evangelio y la palabra de Dios. 
+        Esta es una historia inspiradora de la mayor crisis que vivió la Iglesia Anglicana
+        de Canada entre dos fracciones quienes rechazaban la palabra de Dios y el
+        remanente que se mantuvo fiel al evangelio y la palabra de Dios.
       </>
     ),
     link: '/blog/anglicanos-canada/',
   },
   {
     title: <>La pandemia de la soledad</>,
-    imageUrl: 'img/alone.png',
+    imageUrl: 'img/blog/alone.png',
     description: (
       <>
-        La soledad, según nos dicen los expertos en salud pública, está matando a 
-        tantos personas como obesidad y tabaquismo. Los estadounidenses están solos, 
-        los alemanes, los franceses bon vivant están solos, e incluso los escandinavos, 
-        las personas "más felices del mundo" también están solos. Te invito a leer este 
+        La soledad, según nos dicen los expertos en salud pública, está matando a
+        tantos personas como obesidad y tabaquismo. Los estadounidenses están solos,
+        los alemanes, los franceses bon vivant están solos, e incluso los escandinavos,
+        las personas "más felices del mundo" también están solos. Te invito a leer este
         reportaje de como el declive de la familia ha destado esta oculta pandemia.
       </>
     ),
@@ -142,7 +143,7 @@ function Feature({imageUrl, title, description, link}) {
           Ver más ››
         </Link>
       </p>
-      
+
     </div>
   );
 }
@@ -153,6 +154,7 @@ function Home() {
   return (
     <Layout
       description="Servimos al Reino de Dios, promoviendo el evangelio que restaura la relación entre Dios y su creación. El cual trae una nueva vida, paz, descanso y esperanza a las personas y brinda justicia al oprimido. Con el objetivo de llegar a una sociedad de personas que aman y se preocupan por su prójimo."
+      image={useBaseUrl('/img/header-home.jpg')}
     >
       <header className={clsx(styles.heroBanner)}>
         <div className={clsx('container', styles.containerBanner)}>
@@ -167,7 +169,7 @@ function Home() {
           <Link
             to={useBaseUrl('/blog')}>
             Ver todos ››
-          </Link> 
+          </Link>
         </div>
         {features && features.length > 0 && (
           <section className={styles.features}>

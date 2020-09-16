@@ -6,7 +6,7 @@ author_title: Fundador de Sanando el Mundo
 author_url: http://sanandoelmundo.com/
 author_image_url: https://lh3.googleusercontent.com/ogw/ADGmqu_V6iQnJvuIOUFQJ8ebZQW6vvBd8lk0fipmF92Z
 tags: [islam, evangelismo, evangelio, Dios]
-image: https://declaradojusto.files.wordpress.com/2017/07/cabezas-islam-y-cristianismo.jpg
+image: https://sanandoelmundo.com/img/blog/musuman-cristiano.png
 ---
 
 Esta es una historia que vivi en 2017, cuando fui a USA a vivir por un poco de tiempo.

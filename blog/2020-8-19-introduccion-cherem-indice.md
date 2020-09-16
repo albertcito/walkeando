@@ -6,7 +6,7 @@ author_title: Fundador de Sanando el Mundo
 author_url: http://sanandoelmundo.com/
 author_image_url: https://lh3.googleusercontent.com/ogw/ADGmqu_V6iQnJvuIOUFQJ8ebZQW6vvBd8lk0fipmF92Z
 tags: [cherem, santisimo, levítico]
-image: https://declaradojusto.files.wordpress.com/2020/08/moises-arbol-ardiendo.png
+image: https://sanandoelmundo.com/img/blog/moises.png
 --- 
 
 *Cherem* es un concepto crucial que revela una poderosa comprensión tanto del Antiguo como del Nuevo Pacto. El concepto de acercarse al lugar santísimo de Dios aparece comenzando en el Edén y se repite en el tabernáculo, el templo, varios aspectos de la ley, la historia del antiguo Israel, todo a través de los profetas, y en las amenazas de una gran tribulación durante el últimos días del Antiguo Pacto, así como en las promesas de un futuro templo en el Nuevo Pacto. Además abarca el cumplimiento de la ley/profecía/promesa *cherem* en ese nuevo templo, llamado por nombre en el Nuevo Jerusalén de Apocalipsis 22. En resumen, comienza en el Edén en Génesis y dura todo el camino a través de las Escrituras hasta el Edén nuevo y glorificado en Apocalipsis. Juega un papel central en todo e ilumina porciones considerables de la teología bíblica a lo largo del camino.

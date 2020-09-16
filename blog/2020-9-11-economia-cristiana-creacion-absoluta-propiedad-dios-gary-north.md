@@ -6,7 +6,7 @@ author_title: Fundador de Sanando el Mundo
 author_url: http://sanandoelmundo.com/
 author_image_url: https://lh3.googleusercontent.com/ogw/ADGmqu_V6iQnJvuIOUFQJ8ebZQW6vvBd8lk0fipmF92Z
 tags: [economía, propiedad, dios, creación, gary north]
-image: https://declaradojusto.files.wordpress.com/2020/08/gary-north.jpg
+image: https://sanandoelmundo.com/img/blog/planeta-tierra-luna-sol.png
 --- 
 <center>
 De Jehová es la tierra y su plenitud; El mundo, y los que en él habitan. Porque él la fundó sobre los mares, Y la afirmó sobre los ríos. (Salmos 24:1-2)
@@ -122,7 +122,10 @@ La teoría económica debe comenzar con la doctrina de la creación. Por lo tant
 
 Esto nos lleva a una discusión más detallada de lo que llamo el pacto de dominio: la relación legal entre Dios y la humanidad con respecto a la extensión del reino de Dios en la historia.
 
------
+------
+
+Esta publicación es parte de [La Creación](/blog/economia-cristiana-creacion-indice-gary-north/) revisa el indice [aquí](/blog/economia-cristiana-creacion-indice-gary-north/).
+
 
 <div class="alert alert--secondary" role="info">
   Escrito por Gary North, en el volumen 1 de la obra magna de Gary North llamado <a href="https://www.garynorth.com/public/department188.cfm">Christian Economics: Scholar's Edition</a>. <a href="https://www.garynorth.com/public/16667.cfm">Capítulo 1: Ownership</a>.

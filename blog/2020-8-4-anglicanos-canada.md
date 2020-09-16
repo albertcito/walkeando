@@ -6,7 +6,7 @@ author_title: Fundador de Sanando el Mundo
 author_url: http://sanandoelmundo.com/
 author_image_url: https://lh3.googleusercontent.com/ogw/ADGmqu_V6iQnJvuIOUFQJ8ebZQW6vvBd8lk0fipmF92Z
 tags: [historia, investigación, anglicanos, canada, lgtbiq]
-image: https://lh3.googleusercontent.com/JZjvCjEmChZ2OxVQ4Kk5uv32hXmhPbvVSYVR0Uot5_ypgsGi0SA8k2dXGtURzVRdzKLJpFyny-USPhoJyVEC
+image: https://sanandoelmundo.com/img/blog/pray.jpg
 ---
 Estuve viviendo casi 3 años en Canadá en la ciudad de Ottawa y me congregue un tiempo en la iglesia [Church of The Messiah](https://www.messiahchurch.ca/) donde pastorea George Sinclair, por esa razón leer este [artículo](https://www.thegospelcoalition.org/article/how-anglicans-in-canada-found-new-life-after-their-eviction/) toco mi corazón, viendo como mis hermanos anglicanos, el remanente, se mantuvo firme en la palabra de Dios a costa de su trabajo, edificios, dinero, reputación, etc. Y como hoy esta iglesia esta creciendo en nuevos hermanos, el evangelio y madurez. Además, trabajando en la universidad de Ottawa, abriendo una [nueva congregación en Kanata](https://www.messiahkanata.ca/) y solo esta semana Jonathan (un hermano de esa iglesia) me escribió contándome que se esta mudando a Quebeq con su familia para abrir una [nueva misión](https://www.saintlazare.ca). Yo viví en downtown, frente a mi departamento había una iglesia anglicana gigante tomada por el liberalismo teológico con un [letrero que deciá](https://lh3.googleusercontent.com/BY10gGEPdWDXgJvGR4fDx4lkfyJqWmOZkjgwEvuH59_d73yvG7B68sZf6PGq3cDJYINrvlEN2Ha5W-rjV8X8=w2560-h1386-rw) "Esta ya no es iglesia... disfruta un almuerzo, café, cerveza o más...". 
 
