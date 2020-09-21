@@ -21,6 +21,18 @@ const features = [
     link: '/biblia-90-minutos',
   },
   {
+    title: <>Propósito individual y el Reino de Dios</>,
+    imageUrl: 'img/blog/kid-baby.png',
+    description: (
+      <>
+        La educación en el hogar no tendría sentido a menos que enseñáramos a nuestros
+        hijos a buscar y encontrar su tarea y propósito específicos como individuos,
+        en el plan de Dios.
+      </>
+    ),
+    link: '/blog/proposito-individual-reino-dios-bojidar-marinov',
+  },
+  {
     title: <>La Creación</>,
     imageUrl: 'img/blog/planeta-tierra-luna-sol.png',
     description: (
@@ -91,6 +103,19 @@ const features = [
       </>
     ),
     link: '/blog/mi-amigo-musulman/',
+  },
+  {
+    title: <>Cuarentena y la Biblia</>,
+    imageUrl: 'img/blog/corona-virus.png',
+    description: (
+      <>
+        Te has preguntado ¿El gobierno civil tiene el derecho ordenar
+        cerrar propiedad privada en cuarentenas? ¿O esto sobrepasa el poder
+        del gobierno civil en la vida de las personas y de las iglesias? Aquí
+        te ofrecemos una respuesta a está interrogante!
+      </>
+    ),
+    link: '/blog/cuarentena-biblia/',
   },
   {
     title: <>La remanente que se mantuvo firme</>,
