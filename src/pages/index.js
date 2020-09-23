@@ -21,6 +21,30 @@ const features = [
     link: '/biblia-90-minutos',
   },
   {
+    title: <>Relación versus propósito: Cómo la iglesia destruye a la familia cristiana</>,
+    imageUrl: 'img/blog/family-dock.png',
+    description: (
+      <>
+        Como la predicación actual elimina todas las razones por las que la familia
+        debería existir en primer lugar, y luego intenta de recrearla sin propósito
+        ni significado.
+      </>
+    ),
+    link: '/blog/relacion-versus-proposito-iglesia-destruye-familia-cristiana-bojidar-marinov',
+  },
+  {
+    title: <>La demografía de la irrelevancia</>,
+    imageUrl: 'img/blog/woman-church.png',
+    description: (
+      <>
+        La demografía de la irrelevancia es la maldición de Dios sobre una generación
+        que se negó a escuchar el llamado de la victoria del Reino de Cristo en
+        la historia y en la tierra
+      </>
+    ),
+    link: '/blog/demografia-irrelevancia-bojidar-marinov',
+  },
+  {
     title: <>Propósito individual y el Reino de Dios</>,
     imageUrl: 'img/blog/kid-baby.png',
     description: (
