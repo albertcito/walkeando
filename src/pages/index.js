@@ -21,6 +21,20 @@ const features = [
     link: '/biblia-90-minutos',
   },
   {
+    title: <>El hacha del misionero</>,
+    imageUrl: 'img/blog/san-bonifacio-arbol.png',
+    description: (
+      <>
+        Un misionero que no hace todo lo posible por desafiar al ídolo central
+        de una cultura está produciendo futuros apóstatas, no verdaderos creyentes.
+        No importa cuántas conversiones personales pueda producir un misionero,
+        si no desafían al ídolo central de la cultura, los nuevos conversos se apartarán
+        y volverán al paganismo.
+      </>
+    ),
+    link: '/blog/hacha-misionero-bojidar-marinov',
+  },
+  {
     title: <>Relación versus propósito: Cómo la iglesia destruye a la familia cristiana</>,
     imageUrl: 'img/blog/family-dock.png',
     description: (
