@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[77],{133:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"bojidar-marinov","name":"bojidar marinov","count":3,"permalink":"/blog/tags/bojidar-marinov"}')}}]);
