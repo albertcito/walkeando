@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[143],{199:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"salud-publica","name":"salud publica","count":2,"permalink":"/blog/tags/salud-publica"}')}}]);
