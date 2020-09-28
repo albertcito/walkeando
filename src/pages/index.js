@@ -21,6 +21,20 @@ const features = [
     link: '/biblia-90-minutos',
   },
   {
+    title: <>¿Por qué Jesús limpió el templo dos veces?</>,
+    imageUrl: 'img/blog/jesus-clean-temple.png',
+    description: (
+      <>
+        Por qué se registra que Jesús limpió el templo de los cambistas dos veces.
+        Juan registra que sucedió al comienzo del ministerio de Jesús, y todos los
+        evangelios sinópticos registran que sucedió al final. Cual es ¿O son ambos?
+        Si es así, ¿por qué? ¿Qué sentido tiene? En los próximos minutos,
+        le daré sentido.
+      </>
+    ),
+    link: '/blog/por-que-jesus-limpio-templo-dos-veces-joel-mcdurmon',
+  },
+  {
     title: <>El hacha del misionero</>,
     imageUrl: 'img/blog/san-bonifacio-arbol.png',
     description: (

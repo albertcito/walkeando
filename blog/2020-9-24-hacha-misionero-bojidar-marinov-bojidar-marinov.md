@@ -1,6 +1,6 @@
 ---
 id: hacha-misionero-bojidar-marinov
-title: El hacha del misionero
+title: El misionero y su hacha
 author: Albert
 author_title: Fundador de Sanando el Mundo
 author_url: https://sanandoelmundo.com/

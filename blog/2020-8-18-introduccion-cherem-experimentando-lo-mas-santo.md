@@ -38,7 +38,7 @@ Aquellos que no tienen esa fe, no obstante, un día estarán ante el trono de Di
 
 ------
 
-Esta publicación es parte de [Introducción a Cherem](/blog/introduccion-cherem), ver el indice [aquí](/blog/introduccion-cherem).
+Esta publicación es parte de [Introducción a Cherem](/blog/introduccion-cherem), ver el indice [aquí](/blog/introduccion-cherem). 
 
 <div class="alert alert--secondary" role="info">
   Extracto del libro <a href="https://www.amazon.com/Consuming-Fire-Holy-Holies-Biblical/dp/1078311242">A Consuming Fire: The Holy of Holies in Biblical Law</a> de Joel McDurmon.

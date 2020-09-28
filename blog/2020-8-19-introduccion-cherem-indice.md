@@ -43,6 +43,13 @@ Para comprender la naturaleza y el significado del lugar santísimo, primero deb
 - [Las cosas más santas](/blog/introduccion-cherem-las-cosas-mas-santas)
 - [Experimentando lo más santo](/blog/introduccion-cherem-experimentando-lo-mas-santo)
 
+## Conclusión
+
+Cherem significa "devoto", pero como existen otros tipos de separación hacia Dios (es decir, qodesh), siempre debemos considerar los detalles. El detalle más distintivo para entender el cherem es la transferencia que resulta de las cosas dedicadas al estado o jurisdicción de “santísimo” (Lev. 27: 28-29). Esto significa que para comprender el cherem correctamente, necesitamos comprender la naturaleza y el alcance de la mayor parte de la santidad.
+
+Las enseñanzas de las Escrituras con respecto a lo más santo pertenecen al tabernáculo, el sacerdocio, el arca del pacto, el voto nazareo y más. Todas estas fueron ordenanzas ceremoniales mosaicas, aunque el concepto de una barrera mortal de separación se remonta claramente a los querubines a la entrada del Jardín del Edén. Aunque el Jardín y esos querubines se habían ido hace mucho, fueron conmemorados en el tabernáculo y el sacerdocio levítico, y sus espadas. La muerte que resultaría de violar ese espacio, en una variedad de formas, incluso en las infracciones aparentemente más pequeñas, era igualmente real.
+
+Como veremos en el próximo capítulo, una característica adicional de la ley mosaica era la jurisdicción del magistrado civil sobre algunas de estas infracciones ceremoniales.
 
 <div class="alert alert--secondary" role="info">
   Basado en el libro <a href="https://www.amazon.com/Consuming-Fire-Holy-Holies-Biblical/dp/1078311242">A Consuming Fire: The Holy of Holies in Biblical Law</a> de Joel McDurmon.
