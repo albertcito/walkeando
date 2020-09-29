@@ -6,7 +6,7 @@ author_title: Fundador de Sanando el Mundo
 author_url: http://sanandoelmundo.com/
 author_image_url: https://lh3.googleusercontent.com/ogw/ADGmqu_V6iQnJvuIOUFQJ8ebZQW6vvBd8lk0fipmF92Z
 tags: [cherem, santisimo, levítico, teología biblica]
-image: https://sanandoelmundo.com/img/blog/moises.png
+image: https://sanandoelmundo.com/img/blog/cherem-prescencia-dios-templo.png
 --- 
 
 Antes de su caída en el pecado, la humanidad tenía comunión con Dios en el Jardín del Edén. Dios había creado el Jardín especialmente para la humanidad y le había encargado que lo trabajara y lo cuidara. Tenían acceso a todos los frutos del Jardín, incluido el Árbol de la Vida. En este escenario original, Dios podía morar con el hombre y tener comunión directa con él.

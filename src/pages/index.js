@@ -100,7 +100,7 @@ const features = [
   },
   {
     title: <>Introducción a Cherem</>,
-    imageUrl: 'img/blog/moises.png',
+    imageUrl: 'img/blog/cherem-prescencia-dios-templo.png',
     description: (
       <>
         El concepto de acercarse al lugar santísimo de Dios aparece comenzando en el Edén y se repite en el tabernáculo, el templo, varios aspectos de la ley, la historia del antiguo Israel, todo a través de los profetas, y en las amenazas de una gran tribulación durante el últimos días del Antiguo Pacto, así como en las promesas de un futuro templo en el Nuevo Pacto.

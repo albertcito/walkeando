@@ -6,7 +6,7 @@ author_title: Fundador de Sanando el Mundo
 author_url: http://sanandoelmundo.com/
 author_image_url: https://lh3.googleusercontent.com/ogw/ADGmqu_V6iQnJvuIOUFQJ8ebZQW6vvBd8lk0fipmF92Z
 tags: [cherem, santisimo, levítico, teología biblica]
-image: https://sanandoelmundo.com/img/blog/moises.png
+image: https://sanandoelmundo.com/img/blog/cherem-prescencia-dios-templo.png
 --- 
 
 Es necesario comprender la naturaleza y el significado de "santísimo" en la ley mosaica para comprender las aplicaciones de cherem que cubriremos en los próximos capítulos. Las penas de muerte y la destrucción de algunas propiedades que se solicitan son el resultado, cuando es necesario, de la transferencia de las personas o cosas judicialmente a través del límite "santísimo", como si estuvieran en la presencia inmediata de Dios.
