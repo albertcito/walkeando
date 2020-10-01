@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[116],{173:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"teologia-biblica","name":"teolog\xeda biblica","count":3,"permalink":"/blog/tags/teologia-biblica"}')}}]);

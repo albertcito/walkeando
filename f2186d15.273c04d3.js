@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[196],{252:function(o){o.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"corrupcion","name":"corrupci\xf3n","count":1,"permalink":"/blog/tags/corrupcion"}')}}]);
