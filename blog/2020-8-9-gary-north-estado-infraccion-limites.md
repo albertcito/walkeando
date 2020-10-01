@@ -1,5 +1,5 @@
 ---
-id: gary-north-estado-infraccion-limites
+slug: gary-north-estado-infraccion-limites
 title: Economía Cristiana - El Estado - Infracción de límites
 author: Albert
 author_title: Fundador de Sanando el Mundo

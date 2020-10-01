@@ -1,5 +1,5 @@
 ---
-id: gary-north-estado-burocracia-impuestos
+slug: gary-north-estado-burocracia-impuestos
 title: Economía Cristiana - El Estado - Burocracia e Impuestos
 author: Albert
 author_title: Fundador de Sanando el Mundo

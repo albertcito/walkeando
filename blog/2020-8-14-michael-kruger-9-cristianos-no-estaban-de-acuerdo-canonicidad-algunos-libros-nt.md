@@ -1,5 +1,5 @@
 ---
-id: michael-kruger-9-cristianos-no-estaban-de-acuerdo-canonicidad-algunos-libros-nt
+slug: michael-kruger-9-cristianos-no-estaban-de-acuerdo-canonicidad-algunos-libros-nt
 title: 9. Los cristianos no estaban de acuerdo sobre la canonicidad de algunos libros del NT
 author: Albert
 author_title: Fundador de Sanando el Mundo

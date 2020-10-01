@@ -1,5 +1,5 @@
 ---
-id: gary-north-el-estado-indice
+slug: gary-north-el-estado-indice
 title: Economía Cristiana - El Estado - Indice
 author: Albert
 author_title: Fundador de Sanando el Mundo

@@ -1,5 +1,5 @@
 ---
-id: mi-amigo-musulman-5
+slug: mi-amigo-musulman-5
 title: Mi amigo Musulmán y la Biblia (5/6)
 author: Albert
 author_title: Fundador de Sanando el Mundo

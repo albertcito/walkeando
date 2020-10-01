@@ -1,5 +1,5 @@
 ---
-id: michael-kruger-5-cuatro-evangelios-estan-bien-establecidos-fines-siglo-II
+slug: michael-kruger-5-cuatro-evangelios-estan-bien-establecidos-fines-siglo-II
 title: 5. Los cuatro evangelios están bien establecidos a fines del siglo II
 author: Albert
 author_title: Fundador de Sanando el Mundo

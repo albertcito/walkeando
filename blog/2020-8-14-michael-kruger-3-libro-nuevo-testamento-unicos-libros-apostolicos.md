@@ -1,5 +1,5 @@
 ---
-id: michael-kruger-3-libro-nuevo-testamento-unicos-libros-apostolicos
+slug: michael-kruger-3-libro-nuevo-testamento-unicos-libros-apostolicos
 title: 3. Los libros del Nuevo Testamento son únicos porque son libros apostólicos
 author: Albert
 author_title: Fundador de Sanando el Mundo

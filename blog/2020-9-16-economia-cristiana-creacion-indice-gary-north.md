@@ -1,5 +1,5 @@
 ---
-id: economia-cristiana-creacion-indice-gary-north
+slug: economia-cristiana-creacion-indice-gary-north
 title: La Creación desde una perspectiva económica
 author: Albert
 author_title: Fundador de Sanando el Mundo

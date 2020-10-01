@@ -1,5 +1,5 @@
 ---
-id: michael-kruger-10-primeros-cristianos-creian-libros-canonicos-autoautenticaban
+slug: michael-kruger-10-primeros-cristianos-creian-libros-canonicos-autoautenticaban
 title: 10. Los primeros cristianos creían que los libros canónicos se autoautenticaban
 author: Albert
 author_title: Fundador de Sanando el Mundo

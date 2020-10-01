@@ -1,5 +1,5 @@
 ---
-id: mi-amigo-musulman-6
+slug: mi-amigo-musulman-6
 title: Comentarios respecto a “Mi amigo Musulmán y … “ (6/6)
 author: Albert
 author_title: Fundador de Sanando el Mundo

@@ -1,5 +1,5 @@
 ---
-id: economia-cristiana-creacion-mayordomia-gary-north
+slug: economia-cristiana-creacion-mayordomia-gary-north
 title: Creación y mayordomía
 author: Albert
 author_title: Fundador de Sanando el Mundo

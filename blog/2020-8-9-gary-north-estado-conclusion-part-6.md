@@ -1,5 +1,5 @@
 ---
-id: gary-north-estado-conclusion-part-6
+slug: gary-north-estado-conclusion-part-6
 title: Economía Cristiana - El Estado - Conclusión
 author: Albert
 author_title: Fundador de Sanando el Mundo

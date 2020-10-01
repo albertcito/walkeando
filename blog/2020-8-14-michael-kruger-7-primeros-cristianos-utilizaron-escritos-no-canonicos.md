@@ -1,5 +1,5 @@
 ---
-id: michael-kruger-7-primeros-cristianos-utilizaron-escritos-no-canonicos
+slug: michael-kruger-7-primeros-cristianos-utilizaron-escritos-no-canonicos
 title: 7. Los primeros cristianos solían utilizar escritos no canónicos
 author: Albert
 author_title: Fundador de Sanando el Mundo

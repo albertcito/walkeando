@@ -1,5 +1,5 @@
 ---
-id: michael-kruger-1-libros-nuevo-testamento-primeros-escritos-cristianos
+slug: michael-kruger-1-libros-nuevo-testamento-primeros-escritos-cristianos
 title: 1. Los libros del Nuevo Testamento son los primeros escritos cristianos que tenemos
 author: Albert
 author_title: Fundador de Sanando el Mundo

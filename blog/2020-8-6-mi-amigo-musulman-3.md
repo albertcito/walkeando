@@ -1,5 +1,5 @@
 ---
-id: mi-amigo-musulman-3
+slug: mi-amigo-musulman-3
 title: Mi amigo Musulmán y la Santificación (3/6)
 author: Albert
 author_title: Fundador de Sanando el Mundo

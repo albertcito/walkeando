@@ -1,5 +1,5 @@
 ---
-id: demografia-irrelevancia-bojidar-marinov
+slug: demografia-irrelevancia-bojidar-marinov
 title: La demografía de la irrelevancia
 author: Albert
 author_title: Fundador de Sanando el Mundo

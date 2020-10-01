@@ -1,5 +1,5 @@
 ---
-id: michael-kruger-2-todos-escritos-apocrifos-siglo-II-mas-tarde
+slug: michael-kruger-2-todos-escritos-apocrifos-siglo-II-mas-tarde
 title: 2. Todos los escritos apócrifos están escritos en el siglo II o más tarde
 author: Albert
 author_title: Fundador de Sanando el Mundo

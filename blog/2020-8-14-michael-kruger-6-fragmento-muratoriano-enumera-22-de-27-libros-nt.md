@@ -1,5 +1,5 @@
 ---
-id: michael-kruger-6-fragmento-muratoriano-enumera-22-de-27-libros-nt
+slug: michael-kruger-6-fragmento-muratoriano-enumera-22-de-27-libros-nt
 title: 6. A fines del siglo II, el Fragmento Muratoriano enumera 22 de nuestros 27 libros del NT
 author: Albert
 author_title: Fundador de Sanando el Mundo

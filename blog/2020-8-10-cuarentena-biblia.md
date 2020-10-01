@@ -1,5 +1,5 @@
 ---
-id: cuarentena-biblia
+slug: cuarentena-biblia
 title: Cuarentena y la Biblia
 author: Albert
 author_title: Fundador de Sanando el Mundo

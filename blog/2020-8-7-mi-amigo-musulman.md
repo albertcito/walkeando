@@ -1,5 +1,5 @@
 ---
-id: mi-amigo-musulman
+slug: mi-amigo-musulman
 title: Mi amigo Musulmán
 author: Albert
 author_title: Fundador de Sanando el Mundo

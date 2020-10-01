@@ -1,5 +1,5 @@
 ---
-id: michael-kruger-4-algunos-escritores-nt-cita-otros-escritores-nt-como-escritura
+slug: michael-kruger-4-algunos-escritores-nt-cita-otros-escritores-nt-como-escritura
 title: 4. Algunos escritores del NT citan a otros escritores del NT como Escritura
 author: Albert
 author_title: Fundador de Sanando el Mundo

@@ -1,5 +1,5 @@
 ---
-id: gary-north-estado-justicia
+slug: gary-north-estado-justicia
 title: Economía Cristiana - El Estado - Justicia
 author: Albert
 author_title: Fundador de Sanando el Mundo

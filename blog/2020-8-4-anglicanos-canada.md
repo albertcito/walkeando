@@ -1,5 +1,5 @@
 ---
-id: anglicanos-canada
+slug: anglicanos-canada
 title: Como los anglicanos de Canada encontrarón nueva vida después de ser expulsados
 author: Albert
 author_title: Fundador de Sanando el Mundo

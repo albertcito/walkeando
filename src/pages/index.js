@@ -21,6 +21,20 @@ const features = [
     link: '/biblia-90-minutos',
   },
   {
+    title: <>Libertad: la herramienta perdida del evangelismo</>,
+    imageUrl: 'img/blog/pablo-atenas.png',
+    description: (
+      <>
+        La fe en Cristo cambia la cultura y crea las bases para esa libertad,
+        justicia y prosperidad que la gente en Europa del Este quería alcanzar
+        después de la caída del comunismo. Desafortunadamente, los misioneros
+        estadounidenses a menudo tienen una idea muy mística, casi gnóstica de
+        la salvación.
+      </>
+    ),
+    link: '/blog/libertad-herramienta-perdida-evangelismo-bojidar-marinov',
+  },
+  {
     title: <>¿Por qué Jesús limpió el templo dos veces?</>,
     imageUrl: 'img/blog/jesus-clean-temple.png',
     description: (

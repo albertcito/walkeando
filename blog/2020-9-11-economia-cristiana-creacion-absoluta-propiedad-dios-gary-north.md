@@ -1,5 +1,5 @@
 ---
-id: economia-cristiana-creacion-absoluta-propiedad-dios-gary-north
+slug: economia-cristiana-creacion-absoluta-propiedad-dios-gary-north
 title: Creación y absoluta propiedad de Dios
 author: Albert
 author_title: Fundador de Sanando el Mundo

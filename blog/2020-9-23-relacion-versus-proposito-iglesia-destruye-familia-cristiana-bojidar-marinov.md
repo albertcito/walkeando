@@ -1,5 +1,5 @@
 ---
-id: relacion-versus-proposito-iglesia-destruye-familia-cristiana-bojidar-marinov
+slug: relacion-versus-proposito-iglesia-destruye-familia-cristiana-bojidar-marinov
 title: Relación versus propósito, cómo la iglesia destruye a la familia cristiana
 author: Albert
 author_title: Fundador de Sanando el Mundo

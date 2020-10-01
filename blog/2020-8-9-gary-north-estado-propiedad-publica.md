@@ -1,5 +1,5 @@
 ---
-id: gary-north-estado-propiedad-publica
+slug: gary-north-estado-propiedad-publica
 title: Economía Cristiana - El Estado - Propiedad Pública
 author: Albert
 author_title: Fundador de Sanando el Mundo

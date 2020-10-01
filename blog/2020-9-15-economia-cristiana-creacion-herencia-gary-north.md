@@ -1,5 +1,5 @@
 ---
-id: economia-cristiana-creacion-herencia-gary-north
+slug: economia-cristiana-creacion-herencia-gary-north
 title: Creación y la herencia
 author: Albert
 author_title: Fundador de Sanando el Mundo

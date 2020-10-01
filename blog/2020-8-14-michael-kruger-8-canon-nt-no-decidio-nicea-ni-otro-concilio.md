@@ -1,5 +1,5 @@
 ---
-id: michael-kruger-8-canon-nt-no-decidio-nicea-ni-otro-concilio
+slug: michael-kruger-8-canon-nt-no-decidio-nicea-ni-otro-concilio
 title: 8. El canon del NT no se decidió en Nicea, ni en ningún otro concilio de la iglesia
 author: Albert
 author_title: Fundador de Sanando el Mundo

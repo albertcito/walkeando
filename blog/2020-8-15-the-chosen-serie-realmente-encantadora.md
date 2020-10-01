@@ -1,5 +1,5 @@
 ---
-id: the-chosen-serie-realmente-encantadora
+slug: the-chosen-serie-realmente-encantadora
 title: The Chosen es un serie realmente encantadora
 author: Albert
 author_title: Fundador de Sanando el Mundo

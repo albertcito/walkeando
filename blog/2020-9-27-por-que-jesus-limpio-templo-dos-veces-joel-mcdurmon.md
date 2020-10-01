@@ -1,5 +1,5 @@
 ---
-id: por-que-jesus-limpio-templo-dos-veces-joel-mcdurmon
+slug: por-que-jesus-limpio-templo-dos-veces-joel-mcdurmon
 title: ¿Por qué Jesús limpió el templo dos veces?
 author: Albert
 author_title: Fundador de Sanando el Mundo

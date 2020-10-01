@@ -1,5 +1,5 @@
 ---
-id: michael-kruger-diez-hechos-basicos-canon-nt-todo-cristiano-debe-memorizar
+slug: michael-kruger-diez-hechos-basicos-canon-nt-todo-cristiano-debe-memorizar
 title: Diez hechos básicos sobre el canon del NT que todo cristiano debe memorizar
 author: Albert
 author_title: Fundador de Sanando el Mundo

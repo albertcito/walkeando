@@ -1,5 +1,5 @@
 ---
-id: mi-amigo-musulman-1
+slug: mi-amigo-musulman-1
 title: Mi amigo Musulmán y la Justicia de Dios (1/6)
 author: Albert
 author_title: Fundador de Sanando el Mundo

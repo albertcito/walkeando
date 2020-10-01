@@ -1,11 +1,11 @@
 ---
-id: introduccion-cherem-las-cosas-mas-santas
+slug: introduccion-cherem-las-cosas-mas-santas
 title: Las cosas más santas
 author: Albert
 author_title: Fundador de Sanando el Mundo
 author_url: http://sanandoelmundo.com/
 author_image_url: https://lh3.googleusercontent.com/ogw/ADGmqu_V6iQnJvuIOUFQJ8ebZQW6vvBd8lk0fipmF92Z
-tags: [cherem, santisimo, levítico, teología biblica]
+tags: [cherem, santisimo, levítico, teología biblica, Joel McDurmon]
 image: https://sanandoelmundo.com/img/blog/cherem-prescencia-dios-templo.png
 --- 
 

@@ -1,5 +1,5 @@
 ---
-id: gary-north-estado-introduccion
+slug: gary-north-estado-introduccion
 title: Economía Cristiana - El Estado - Introducción
 author: Albert
 author_title: Fundador de Sanando el Mundo

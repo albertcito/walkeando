@@ -1,5 +1,5 @@
 ---
-id: economia-cristiana-creacion-propiedad-gary-north
+slug: economia-cristiana-creacion-propiedad-gary-north
 title: Creación y propiedad
 author: Albert
 author_title: Fundador de Sanando el Mundo

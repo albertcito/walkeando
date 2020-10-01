@@ -1,5 +1,5 @@
 ---
-id: economia-cristiana-creacion-conclusion-gary-north
+slug: economia-cristiana-creacion-conclusion-gary-north
 title: Conclusión de "La Creación"
 author: Albert
 author_title: Fundador de Sanando el Mundo

@@ -1,5 +1,5 @@
 ---
-id: proposito-individual-reino-dios-bojidar-marinov
+slug: proposito-individual-reino-dios-bojidar-marinov
 title: Propósito individual y el Reino de Dios
 author: Albert
 author_title: Fundador de Sanando el Mundo

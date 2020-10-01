@@ -49,7 +49,6 @@ module.exports = {
       '@docusaurus/preset-classic',
       {
         docs: {
-          homePageId: 'doc1',
           sidebarPath: require.resolve('./sidebars.js'),
           editUrl:
             'https://github.com/albertcito/walkeando/edit/master/website/',

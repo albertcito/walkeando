@@ -1,5 +1,5 @@
 ---
-id: economia-cristiana-creacion-imputacion-gary-north
+slug: economia-cristiana-creacion-imputacion-gary-north
 title: Creación y la imputación
 author: Albert
 author_title: Fundador de Sanando el Mundo
