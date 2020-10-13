@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[60],{117:function(o){o.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"joel-mc-durmon","name":"joel mcdurmon","count":6,"permalink":"/blog/tags/joel-mc-durmon"}')}}]);
