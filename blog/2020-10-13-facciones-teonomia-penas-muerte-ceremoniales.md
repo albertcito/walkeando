@@ -6,7 +6,7 @@ author_title: Fundador de Sanando el Mundo
 author_url: https://sanandoelmundo.com/
 author_image_url: https://lh3.googleusercontent.com/ogw/ADGmqu_V6iQnJvuIOUFQJ8ebZQW6vvBd8lk0fipmF92Z
 tags: [Teonomia, Joel McDurmon, Greg Bahnsen]
-image: https://sanandoelmundo.com/img/blog/pablo-atenas.png
+image: https://sanandoelmundo.com/img/blog/pena-capital-antiguo.testamento.png
 --- 
 
 En un [artículo anterior](http://sanandoelmundo.com/blog/teonomistas-solus-bahnsen), mencioné que la Reconstrucción Cristiana y la Teonomía siempre han sufrido divisiones y facciones. ¡Por supuesto, **necesitamos más unidad! Y sostengo que debe provenir de un mayor énfasis y productividad en la exégesis**. Aquí es donde he formado mi trabajo en Teonomía. Pero aún quedan facciones, y debemos entenderlas.
