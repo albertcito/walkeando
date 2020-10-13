@@ -21,6 +21,20 @@ const features = [
     link: '/biblia-90-minutos',
   },
   {
+    title: <>Facciones en teonomía ¿Penas de muerte "ceremoniales"?</>,
+    imageUrl: 'img/blog/pena-capital-antiguo.testamento.png',
+    description: (
+      <>
+        La teonomía bíblica es, como describió una vez Rushdoony, lo más parecido
+        a un libertarismo radical que se puede tener. El problema es que, en
+        demasiados aspectos, la perspectiva de Rushdoony se parecía más a esas
+        tiranías retrógradas que a la sociedad de la libertad de la que a veces
+        hablaba.
+      </>
+    ),
+    link: '/blog/facciones-teonomia-penas-muerte-ceremoniales',
+  },
+  {
     title: <>Libertad: la herramienta perdida del evangelismo</>,
     imageUrl: 'img/blog/pablo-atenas.png',
     description: (
