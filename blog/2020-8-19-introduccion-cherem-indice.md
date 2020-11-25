@@ -7,7 +7,7 @@ author_url: http://sanandoelmundo.com/
 author_image_url: https://lh3.googleusercontent.com/ogw/ADGmqu_V6iQnJvuIOUFQJ8ebZQW6vvBd8lk0fipmF92Z
 tags: [cherem, santisimo, levítico, Joel McDurmon]
 image: https://sanandoelmundo.com/img/blog/cherem-prescencia-dios-templo.png
---- 
+---
 
 *Cherem* es un concepto crucial que revela una poderosa comprensión tanto del Antiguo como del Nuevo Pacto. El concepto de acercarse al lugar santísimo de Dios aparece comenzando en el Edén y se repite en el tabernáculo, el templo, varios aspectos de la ley, la historia del antiguo Israel, todo a través de los profetas, y en las amenazas de una gran tribulación durante el últimos días del Antiguo Pacto, así como en las promesas de un futuro templo en el Nuevo Pacto. Además abarca el cumplimiento de la ley/profecía/promesa *cherem* en ese nuevo templo, llamado por nombre en el Nuevo Jerusalén de Apocalipsis 22. En resumen, comienza en el Edén en Génesis y dura todo el camino a través de las Escrituras hasta el Edén nuevo y glorificado en Apocalipsis. Juega un papel central en todo e ilumina porciones considerables de la teología bíblica a lo largo del camino.
 
@@ -16,7 +16,7 @@ image: https://sanandoelmundo.com/img/blog/cherem-prescencia-dios-templo.png
 ## El significado de la palabra *cherem*
 
 En el nivel más básico, *cherem* significa "devoto" en el sentido de dedicado total y exclusivamente al Señor. Esto se distingue de otras formas menos intensas o más generales de dedicación o consagración al Señor, ya que “*cherem*” hace que la persona o propiedad sea “santísima” para el Señor en lugar de simplemente "santo." Esto conllevará requisitos especiales y consecuencias especiales que no se aplican en otras leyes o procedimientos.
- 
+
 Deberíamos definir *cherem* de esta manera: ***cherem* es ese aspecto de la ley de Dios que aplica el límite judicial de lo más santo**.
 
 Si bien esto suena bastante simple, sus implicaciones y aplicaciones son enormes. Cherem tiene una perspectiva celestial (última) y una perspectiva terrenal. Bajo la perspectiva terrenal, sus aplicaciones cambian entre el Antiguo y el Nuevo Pacto. Bajo el Antiguo Pacto, el *cherem* terrenal es una ordenanza mosaica y levítica. Como precepto levítico, *cherem* es por definición una ley sacerdotal. Es, por tanto, una ley ceremonial, pero que, como otras, tuvo aspectos o consecuencias judiciales bajo el sacerdocio levítico. Bajo Moisés, la ley del *cherem* terrenal fue siempre y solo una sombra de la realidad celestial y de las mejores cosas por venir. En el Nuevo Pacto, como veremos, el sacerdocio y el templo cambian. Cristo cumple el *cherem* celestial y transforma el terrenal.
@@ -53,4 +53,4 @@ Como veremos en el próximo capítulo, una característica adicional de la ley m
 
 <div class="alert alert--secondary" role="info">
   Basado en el libro <a href="https://www.amazon.com/Consuming-Fire-Holy-Holies-Biblical/dp/1078311242">A Consuming Fire: The Holy of Holies in Biblical Law</a> de Joel McDurmon.
-</div> 
+</div>
