@@ -5,9 +5,9 @@ author: Albert
 author_title: Fundador de Sanando el Mundo
 author_url: https://sanandoelmundo.com/
 author_image_url: https://lh3.googleusercontent.com/ogw/ADGmqu_V6iQnJvuIOUFQJ8ebZQW6vvBd8lk0fipmF92Z
-tags: [cherem, santisimo, levítico, isaías, Joel McDurmon]
-image: https://sanandoelmundo.com/img/blog/cherem-prescencia-dios-templo.png
---- 
+tags: [cherem, santisimo, Isaías, Joel McDurmon]
+image: https://sanandoelmundo.com/img/blog/cherem-profecia.png
+---
 
 Isaías se refiere a cherem cinco veces. De estos, solo tres son importantes para nuestro estudio; uno es metafórico (11:15) y otro ocurre en la repetición de Isaías de la historia de Ezequías y Senaquerib (compare Isaías 37:11 con 2 Reyes 19:11). Dos aparecen juntos en el capítulo 34, versículos 2 y 5:
 
@@ -57,8 +57,10 @@ A la luz de esta mayor realidad espiritual, Isaías 43: 27-28 y su referencia ch
 
 El uso que hace Isaías de la ley cherem, por lo tanto, tiene una aplicación primaria a la ley levítica bajo Moisés y al gran juicio que vendría sobre el Israel apóstata en el año 70 d.C. Hay un tema espiritual permanente por encima y más allá de eso, como ocurre con todas las leyes cherem, porque el lugar santísimo es en última instancia celestial. Sin embargo, el uso de Isaías, aunque parte de su lenguaje e imágenes están universalizados, se refiere principalmente a los días de venganza que vinieron como el juicio final del Antiguo Pacto, y esto incluyó la destrucción del santuario del Antiguo Pacto y su sacerdocio.
 
-Además, puede revisar [Introducción a Cherem](/blog/introduccion-cherem).
+------------
+
+Este artículo es parte de [Cherem en la profecia Biblica](/blog/cherem-profecia-biblica-joel-mcdurmon).
 
 <div class="alert alert--secondary" role="info">
   Extracto del libro <a href="https://www.amazon.com/Consuming-Fire-Holy-Holies-Biblical/dp/1078311242">A Consuming Fire: The Holy of Holies in Biblical Law</a> de Joel McDurmon.
-</div> 
+</div>

@@ -21,6 +21,22 @@ const features = [
     link: '/biblia-90-minutos',
   },
   {
+    title: <>Cherem en la ley Profecía</>,
+    imageUrl: 'img/blog/cherem-profecia.png',
+    description: (
+      <>
+        Los profetas contienen varias referencias a cherem, algunas de las
+        cuales son coloridas. Algunas son sencillas, otras son matizadas y
+        misteriosas, pero otras tienen implicaciones radicales.
+
+        Los profetas estaban comprometidos no solo en entablar una demanda
+        del pacto contra Israel, sino también en brindar seguridad de la
+        fidelidad subyacente de Dios a sus promesas.
+      </>
+    ),
+    link: '/blog/cherem-profecia-biblica-joel-mcdurmon',
+  },
+  {
     title: <>Cherem en la ley Bíblica</>,
     imageUrl: 'img/blog/cherem-law.png',
     description: (

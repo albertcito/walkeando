@@ -41,7 +41,7 @@ En este capítulo, hemos visto numerosos ejemplos de cherem en la ley bíblica. 
 
 A lo largo de esta discusión hasta ahora, las características señaladas al principio de este capítulo son ciertas. Los ejemplos exhiben diversamente el factor más sagrado en la ley cherem, la provisión de servicio en oposición a la destrucción (en casos raros, sin embargo), la clara distinción entre la guerra israelita normal y la ejecución de cherem, tanto voluntario como obligatorio cherem y la singularidad de cherem bajo la administración mosaica y levítica. Tomados en conjunto, vemos el papel dominante del lugar santísimo bajo la administración mosaica.
 
-En el próximo capítulo, veremos estos mismos temas aplicados y desarrollados en la profecía bíblica. Veremos una combinación única, también exhibida en el Nuevo Testamento, de la ley bíblica para los israelitas bajo el Pacto Mosaico y la perspectiva de un mayor cumplimiento espiritual en el Nuevo Pacto.
+En el [próximo capítulo](/blog/cherem-profecia-biblica-joel-mcdurmon), veremos estos mismos temas aplicados y desarrollados en la profecía bíblica. Veremos una combinación única, también exhibida en el Nuevo Testamento, de la ley bíblica para los israelitas bajo el Pacto Mosaico y la perspectiva de un mayor cumplimiento espiritual en el Nuevo Pacto.
 
 ------
 
