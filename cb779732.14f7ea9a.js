@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[191],{260:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"tradicion","name":"tradici\xf3n","count":1,"permalink":"/blog/tags/tradicion"}')}}]);
