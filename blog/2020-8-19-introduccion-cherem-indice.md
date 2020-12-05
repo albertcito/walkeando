@@ -49,7 +49,9 @@ Cherem significa "devoto", pero como existen otros tipos de separación hacia Di
 
 Las enseñanzas de las Escrituras con respecto a lo más santo pertenecen al tabernáculo, el sacerdocio, el arca del pacto, el voto nazareo y más. Todas estas fueron ordenanzas ceremoniales mosaicas, aunque el concepto de una barrera mortal de separación se remonta claramente a los querubines a la entrada del Jardín del Edén. Aunque el Jardín y esos querubines se habían ido hace mucho, fueron conmemorados en el tabernáculo y el sacerdocio levítico, y sus espadas. La muerte que resultaría de violar ese espacio, en una variedad de formas, incluso en las infracciones aparentemente más pequeñas, era igualmente real.
 
-Como veremos en el próximo capítulo, una característica adicional de la ley mosaica era la jurisdicción del magistrado civil sobre algunas de estas infracciones ceremoniales.
+Como veremos en el [próximo capítulo](/blog/cherem-ley-biblica-joel-mcdurmon), una característica adicional de la ley mosaica era la jurisdicción del magistrado civil sobre algunas de estas infracciones ceremoniales.
+
+------
 
 <div class="alert alert--secondary" role="info">
   Basado en el libro <a href="https://www.amazon.com/Consuming-Fire-Holy-Holies-Biblical/dp/1078311242">A Consuming Fire: The Holy of Holies in Biblical Law</a> de Joel McDurmon.

@@ -33,7 +33,15 @@ El área de la ley cherem que ha atraído la mayor atención de los eruditos mod
 
 ## Cherem en la historia bíblica
 
-Proximamente...
+Cherem aparece en muchos lugares en los libros históricos del Antiguo Testamento. Debemos tener algo de cuidado al reconocer que, si bien la palabra de Dios y los límites de Dios son claros, a veces las personas no ejecutan las leyes de Dios de manera completa o fiel. Sin embargo, también suelen hacerlo.  [Leer sección completa](/blog/cherem-ley-historia-biblica-joel-mcdurmon).
+
+## Conclusión
+
+En este capítulo, hemos visto numerosos ejemplos de cherem en la ley bíblica. Estos incluyen la ley levítica misma (Lev. 27: 28-29), casos de aplicación de la ley (adoración falsa, ciudades idólatras, etc.), la aplicación de cherem en la así llamada doctrina de la guerra santa y varios ejemplos en el historia bíblica del antiguo Israel.
+
+A lo largo de esta discusión hasta ahora, las características señaladas al principio de este capítulo son ciertas. Los ejemplos exhiben diversamente el factor más sagrado en la ley cherem, la provisión de servicio en oposición a la destrucción (en casos raros, sin embargo), la clara distinción entre la guerra israelita normal y la ejecución de cherem, tanto voluntario como obligatorio cherem y la singularidad de cherem bajo la administración mosaica y levítica. Tomados en conjunto, vemos el papel dominante del lugar santísimo bajo la administración mosaica.
+
+En el próximo capítulo, veremos estos mismos temas aplicados y desarrollados en la profecía bíblica. Veremos una combinación única, también exhibida en el Nuevo Testamento, de la ley bíblica para los israelitas bajo el Pacto Mosaico y la perspectiva de un mayor cumplimiento espiritual en el Nuevo Pacto.
 
 ------
 

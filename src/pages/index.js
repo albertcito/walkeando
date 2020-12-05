@@ -21,6 +21,23 @@ const features = [
     link: '/biblia-90-minutos',
   },
   {
+    title: <>Cherem en la ley Bíblica</>,
+    imageUrl: 'img/blog/cherem-law.png',
+    description: (
+      <>
+        Revisamos diversamente el factor más sagrado en la ley cherem,
+        la provisión de servicio en oposición a la destrucción
+        (en casos raros, sin embargo), la clara distinción entre
+        la guerra israelita normal y la ejecución de cherem,
+        tanto voluntario como obligatorio cherem y la singularidad de
+        cherem bajo la administración mosaica y levítica.
+        Tomados en conjunto, vemos el papel dominante del
+        lugar santísimo bajo la administración mosaica.
+      </>
+    ),
+    link: '/blog/cherem-ley-biblica-joel-mcdurmon',
+  },
+  {
     title: <>Facciones en teonomía ¿Penas de muerte "ceremoniales"?</>,
     imageUrl: 'img/blog/pena-capital-antiguo.testamento.png',
     description: (
