@@ -5,7 +5,7 @@ author: Albert
 author_title: Fundador de Sanando el Mundo
 author_url: https://sanandoelmundo.com/
 author_image_url: https://lh3.googleusercontent.com/ogw/ADGmqu_V6iQnJvuIOUFQJ8ebZQW6vvBd8lk0fipmF92Z
-tags: [cherem, santisimo, ley, Joel McDurmon]
+tags: [cherem, Consumido por Fuego, santisimo, ley, Joel McDurmon]
 image: https://sanandoelmundo.com/img/blog/cherem-law.png
 ---
 
