@@ -21,6 +21,20 @@ const features = [
     link: '/biblia-90-minutos',
   },
   {
+    title: <>Evaluando el Teonomismo de Bahnsen</>,
+    imageUrl: 'img/blog/evaluando-teonomismo.png',
+    description: (
+      <>
+        Muchas preocupaciones profundas, arraigadas en la Biblia constituyen el núcleo
+        común de la teonomía y conducen al entusiasmo de sus partidarios.
+        Los propios seguidores son en su mayor parte muy conscientes de sus
+        principios fundamentales. Pero quienes no son parte de este grupo quizás
+        hayan escuchado con demasiada frecuencia solo un fragmento impreciso del todo.
+      </>
+    ),
+    link: '/blog/evaluando-teonomismo-bahsen-vern-poythress',
+  },
+  {
     title: <>Cherem en la ley Profecía</>,
     imageUrl: 'img/blog/cherem-profecia.png',
     description: (
