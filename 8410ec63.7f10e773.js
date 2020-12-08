@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[132],{202:function(s){s.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"impuestos","name":"impuestos","count":1,"permalink":"/blog/tags/impuestos"}')}}]);
