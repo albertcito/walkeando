@@ -51,7 +51,7 @@ Las leyes mosaicas fueron dadas por Dios, como el Antiguo Testamento mismo, Jes�
 
 ---------
 
-Este artículo es parte de: [Evaluando el Teonomismo de Bahnsen](/blog/evaluando-el-teonomismo-de-bahsen-vern-poythress).
+Este artículo es parte de: [Evaluando el Teonomismo de Bahnsen](/blog/evaluando-teonomismo-bahsen-vern-poythress).
 
 <div class="alert alert--secondary" role="info">
   Extracto del libro <a href="https://frame-poythress.org/ebooks/the-shadow-of-christ-in-the-law-of-moses/">The Shadow of Christ in the Law of Moses</a> de Vern Sheridan Poythress.

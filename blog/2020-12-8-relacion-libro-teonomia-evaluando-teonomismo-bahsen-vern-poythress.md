@@ -207,10 +207,9 @@ En tercer lugar, tanto Nabucodonosor como Darío probablemente emitieron los dec
 
 No podemos estar seguros de todos los motivos de Nabucodonosor y Darío. Ciertamente estaban impresionados con el poder de Dios (Dan. 3:28; 6: 26-27). Sus decretos podrían ser simplemente el resultado de un desbordamiento general de celo a favor del Dios verdadero. Pero la especificación del castigo en un caso (Dan. 3:29) todavía podría basarse en parte en un motivo subordinado de proteger al estado. Como hemos visto en el capítulo 12, el estado está justificado para protegerse y castigar a los usurpadores y rebeldes. El estado tal vez podría incluso ejercer algún poder de discreción al establecer reglas adicionales temporales en un caso en el que la sedición probablemente adopte una forma particular. Puede que el decreto de Nabucodonosor aún no sea un ejemplo perfecto de justicia, pero comienza a tener sentido. Si tiene la intención de castigar los comienzos de la sedición, es al menos aproximadamente compatible con los principios de justicia que hemos visto en la ley mosaica.
 
-
 ---------
 
-Este artículo es parte de: [Evaluando el Teonomismo de Bahnsen](/blog/evaluando-el-teonomismo-de-bahsen-vern-poythress).
+Este artículo es parte de: [Evaluando el Teonomismo de Bahnsen](/blog/evaluando-teonomismo-bahsen-vern-poythress).
 
 <div class="alert alert--secondary" role="info">
   Extracto del libro <a href="https://frame-poythress.org/ebooks/the-shadow-of-christ-in-the-law-of-moses/">The Shadow of Christ in the Law of Moses</a> de Vern Sheridan Poythress.
