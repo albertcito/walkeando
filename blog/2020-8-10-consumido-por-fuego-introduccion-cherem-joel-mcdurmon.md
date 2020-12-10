@@ -9,6 +9,8 @@ tags: [cherem, Consumido por Fuego, santisimo, Joel McDurmon]
 image: https://sanandoelmundo.com/img/blog/cherem-prescencia-dios-templo.png
 ---
 
+import ConsumidoPorFuego from '../src/ui/ConsumidoPorFuego';
+
 Este libro es el cumplimiento de una promesa largamente pendiente de mi parte, pero también una solución a algunos problemas hermenéuticos importantes relacionados con la relación entre el Antiguo y el Nuevo Pacto. Es una continuación de mi libro anterior sobre la ley bíblica, pero también es un estudio independiente de un concepto bíblico clave, cherem o anatema, o la devoción más santa.
 
 <!--truncate-->
@@ -74,6 +76,8 @@ Agradezco a todos los que me han animado y apoyado para completar (¡finalmente!
 ---------
 
 Puede revisar [Introducción a Cherem](/blog/introduccion-cherem).
+
+<ConsumidoPorFuego />
 
 <div class="alert alert--secondary" role="info">
   Basado en el libro <a href="https://www.amazon.com/Consuming-Fire-Holy-Holies-Biblical/dp/1078311242">A Consuming Fire: The Holy of Holies in Biblical Law</a> de Joel McDurmon.

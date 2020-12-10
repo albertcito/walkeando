@@ -10,12 +10,12 @@ function Page() {
   const {siteConfig = {}} = context;
   return (
     <Layout
-      title={`Entendiendo la Biblia en 90 Minutos`}
-      description="¿Le gustaría aprender de qué se trata la Biblia,  pero encuentra el libro en sí un poco desalentador,  demasiado largo o no tiene idea de por dónde empezar? ">
+      title={`Consumido por fuego`}
+    >
       <header className={clsx('hero hero--primary', styles.heroBanner)}>
         <div className="container">
           <h1 className="hero__title">
-            Entendiendo la Biblia en 90 Minutos
+            Consumido por fuego - El Lugar Santísimo en la Ley Bíblica
           </h1>
         </div>
       </header>
@@ -24,40 +24,36 @@ function Page() {
           <div className="row">
             <div className="col col--4">
             <div className={clsx('text--center')}>
-              <img src='/img/biblia-90-minutos-portada.png' alt='Entendiendo la Biblia en 90 minutos | Portada' />
+              <img
+                src='/img/consumido-or-fuego.png'
+                alt='Consumido por fuego | Portada'
+              />
             </div>
             </div>
             <div className="col col--8">
               <p>
-                ¿Le gustaría aprender de qué se trata la Biblia,
-                pero encuentra el libro en sí un poco desalentador,
-                demasiado largo o no tiene idea de por dónde empezar?
-                Entonces "Entender la Biblia en 90 minutos" está escrito solo para usted.
-                Este libro está diseñado para explicar los conceptos básicos de cómo
-                se compone la Biblia, qué contiene cada una de sus partes,
-                cómo encajan como un todo y qué significa todo.
-                Ya sea que esté mirando de afuera hacia adentro,
-                con ganas de aprender de qué se trata el texto
-                clave de la fe cristiana, o si estás en el interior deseando aprender
-                los conceptos básicos de lo que dice y significa la Biblia,
-                este libro satisfará tus necesidades perfectamente.
-                Servirá igualmente a personas interesadas de todos los antecedentes
-                religiosos, sin fe o nuevos conversos. También puede funcionar para
-                escuelas dominicales básicas y otros entornos educativos cristianos.
-                Para los cristianos, "la Biblia" es "el libro". Es el libro de todos los libros,
-                el libro más importante que existe. La mayoría de los que lo leen en serio lo
-                encuentran desafiante y reconfortante, trascendente y accesible,
-                imponente e íntimo, aterrador y seguro, exigente y generoso,
-                transformador y reafirmante. Ciertamente no te arrepentirás del
-                tiempo que dedicas a aprender al respecto. Este libro le ayudará a
-                comprender el panorama general de toda la Biblia, en sus partes
-                y como un todo, de la manera más eficiente posible. El lector medio
-                debería poder leerlo todo en sólo unos 90 minutos.
+                El trabajo de Joel es el pináculo en los esfuerzos por
+                aplicar todo el consejo de Dios a toda la fe y la vida. Los críticos
+                han recibido una respuesta amable pero completa, y sus objeciones al
+                Principio de Cherem han demostrado ser defectuosas y bíblicamente insostenibles.
               </p>
               <p>
-                Este libro a sido disponible gracias a que el autor Joel McDurmon
-                autorizo a publicarlo y permitir ser descargado gratuitamente. Si desea
-                compar el libro en inglés lo puede hacer <a href="https://www.amazon.com/gp/product/B0892WBJF2/ref=dbs_a_def_rwt_bibl_vppi_i4">aquí</a>.
+                El Dr. McDurmon articula claramente cómo el Principio Cherem es una clave
+                para comprender la continuidad / discontinuidad de las leyes y las
+                sanciones penales entre el Antiguo y el Nuevo Pacto. Demuestra con las
+                Escrituras que aquellas cosas que fueron consagradas como "santísimas"
+                (Cherem) y por lo tanto destruidas bajo la Ley del Antiguo Pacto se
+                descontinúan (o se difieren a los tribunales del cielo)
+                bajo el Evangelio. Si desea conocer las razones bíblicas por las que Dios
+                destruyó algunos pueblos, posesiones y ciudades en el Antiguo Testamento,
+                debe leer Consumido por Fuego. Da respuestas y más que eso, da una
+                hermenéutica para interpretar qué leyes específicas de la Ley de Dios
+                continúan y cuales se interrumpen dentro de la era del Nuevo Pacto.
+              </p>
+              <p>
+                El libro en español solo abarca la primera parte del libro en Inglés.
+                Esperemos en un futuro traducir la parte 2 y 3 del libro. Si desea comprar
+                el libro en inglés lo puede encontrar <a href="https://www.amazon.com/Consuming-Fire-Holy-Holies-Biblical/dp/1078311242">aquí</a>.
               </p>
 
               <div className="row">
@@ -75,7 +71,7 @@ function Page() {
                       </div>
                       <div className="card__footer">
                         <Link
-                          to='https://declaradojusto.files.wordpress.com/2020/08/entendiendo-la-biblia-en-90-minutos.pdf'
+                          to='https://declaradojusto.files.wordpress.com/2020/12/consumido-por-fuego.pdf'
                           className='button button--secondary'
                           style={{width: '100%'}}
                         >
@@ -101,7 +97,7 @@ function Page() {
                       <div className="card__footer">
                         <Link
                           target="_blank"
-                          to='/files/entendiendo-la-biblia-en-90-minutos-joel-mcdurmon.epub'
+                          to='/files/consumido-por-fuego-joel-mc-durmon.epub'
                           className='button button--secondary'
                           style={{width: '100%'}}
                         >

@@ -9,6 +9,8 @@ tags: [cherem, Consumido por Fuego, santisimo, ley, Joel McDurmon]
 image: https://sanandoelmundo.com/img/blog/cherem-law.png
 ---
 
+import ConsumidoPorFuego from '../src/ui/ConsumidoPorFuego';
+
 La ley de cherem como se da en Levítico 27:28-29 aclara que todo lo que se hace cherem (o “consagrado”) está sujeto a los límites judiciales de las cosas más santas. Se “hace” santísimo, no necesariamente en el sentido de que está purificado en sí mismo, sino en el sentido de que es llevado al espacio judicial y sujeto al estándar de santidad requerido por ese espacio.
 
 <!--truncate-->
@@ -46,6 +48,8 @@ En el [próximo capítulo](/blog/cherem-profecia-biblica-joel-mcdurmon), veremos
 ------
 
 Puede revisar [Introducción a Cherem](/blog/introduccion-cherem).
+
+<ConsumidoPorFuego />
 
 <div class="alert alert--secondary" role="info">
   Extracto del libro <a href="https://www.amazon.com/Consuming-Fire-Holy-Holies-Biblical/dp/1078311242">A Consuming Fire: The Holy of Holies in Biblical Law</a> de Joel McDurmon.

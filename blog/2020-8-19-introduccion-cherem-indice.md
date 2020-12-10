@@ -9,6 +9,8 @@ tags: [cherem, Consumido por Fuego, santisimo, levítico, Joel McDurmon]
 image: https://sanandoelmundo.com/img/blog/cherem-prescencia-dios-templo.png
 ---
 
+import ConsumidoPorFuego from '../src/ui/ConsumidoPorFuego';
+
 Antes de comenzar un estudio más detallado de la doctrina bíblica de cherem, o lo que puede traducirse simplemente como “devoción”, alguna definición será útil. Me basaré en esto de dos maneras: el significado básico de la palabra y luego una definición sistemática básica. Después de eso, daré una explicación de esa definición y mostraré cómo explica y se aplica en todas las instancias bíblicas de la palabra.
 
 Sin embargo, antes de que podamos hacer eso de alguna manera útil, debemos comprender la teología bíblica que proporciona el contexto en el que se puede comprender completamente el cherem. En este capítulo veremos tanto la definición de la palabra como su trasfondo teológico bíblico antes de pasar al uso de cherem en toda la Biblia en los siguientes capítulos.
@@ -67,6 +69,10 @@ Las enseñanzas de las Escrituras con respecto a lo más santo pertenecen al tab
 Como veremos en el [próximo capítulo](/blog/cherem-ley-biblica-joel-mcdurmon), una característica adicional de la ley mosaica era la jurisdicción del magistrado civil sobre algunas de estas infracciones ceremoniales.
 
 ------
+
+Puede revisar [Introducción al libro Consumido por Fuego](/blog/consumido-por-fuego-introduccion-cherem-joel-mcdurmon).
+
+<ConsumidoPorFuego />
 
 <div class="alert alert--secondary" role="info">
   Basado en el libro <a href="https://www.amazon.com/Consuming-Fire-Holy-Holies-Biblical/dp/1078311242">A Consuming Fire: The Holy of Holies in Biblical Law</a> de Joel McDurmon.

@@ -5,20 +5,26 @@ import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 import styles from './styles.module.css';
+import ConsumidoPorFuego from '../ui/ConsumidoPorFuego';
+import BibleMinutes from '../ui/BibleMinutes';
 
 const features = [
   {
-    title: <>Entendiendo la Biblia en 90 minutos</>,
-    imageUrl: 'img/blog/child-reading-bible.jpg',
+    title: <>Cherem en el Nuevo Testamento</>,
+    imageUrl: 'img/blog/cherem-nuevo-testamento.png',
     description: (
       <>
-        A veces es dificil entender las escrituras, muchas veces leemos y no entendemos
-        lo que dice. Aquí tenemos GRATIS un libro que cuenta de que se trata la Biblia,
-        cual es la diferencia entre el Antiguo y Nuevo testamento, quien es
-        Jesús, que dice del fin del mundo y más.
+        Con el Nuevo Pacto el principio cherem cambia por completo.
+        Su lugar de autoridad se ha trasladado de la tierra al cielo. Dios ya no
+        pide al gobierno civil que lleve a cabo castigos cherem.
+        Todavía los lleva a cabo castigando a las sociedades por la idolatría
+        y la apostasía. Lo hace especialmente cuando los enemigos del Evangelio
+        persiguen a su pueblo santo, el cuerpo de Cristo. Sin embargo,
+        lo hace sólo por Cristo y por el Espíritu Santo,
+        ya no autorizando a los gobiernos civiles a ejecutar castigos.
       </>
     ),
-    link: '/biblia-90-minutos',
+    link: '/blog/cherem-nuevo-testamento-joel-mcdurmon',
   },
   {
     title: <>Evaluando el Teonomismo de Bahnsen</>,
@@ -315,6 +321,16 @@ function Home() {
         </div>
       </header>
       <main>
+        <div className={clsx('container')}>
+          <div className="row" style={{ width: '100%', }}>
+            <div class="col">
+              <BibleMinutes />
+            </div>
+            <div class="col">
+              <ConsumidoPorFuego />
+            </div>
+          </div>
+        </div>
         <div className={clsx('container', styles.h2Body, styles.homeBody)}>
           <h2>Artículos Destacados</h2>
           <span className={clsx(styles.line_span)}></span>

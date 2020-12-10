@@ -11,7 +11,7 @@
   position: relative;
   overflow: hidden;
   color: white;
-  background-color: rgba(0, 0, 0, 0.1); 
+  background-color: rgba(0, 0, 0, 0.1);
 }
 
 .heroBanner::after {
@@ -19,14 +19,14 @@
   background-image: url(../../static/img/header-home.jpg);
   background-size: cover;
   background-position: center center;
-  background-color: black; 
+  background-color: black;
   opacity: 0.9;
   top: 0;
   left: 0;
   bottom: 0;
   right: 0;
   position: absolute;
-  z-index: -1;   
+  z-index: -1;
 }
 
 .titleBanner {
@@ -39,7 +39,7 @@
 }
 
 .homeBody {
-  margin-top: 50px;
+  margin-top: 10px;
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -95,3 +95,33 @@
   font-family: 'PT Serif',Arial,sans-serif;
   font-weight: 700;
 }
+
+
+.book {
+  margin-top: 35px;
+}
+  .book a {
+    text-decoration: none;
+  }
+
+.avatar {
+  position: relative;
+  margin-bottom: 30px;
+}
+
+.avatar .freeBook {
+  position: absolute;
+  bottom: -12px;
+  right: -10px;
+  font-size: 0.8em;
+  padding: 0;
+}
+  .avatar .freeBook:hover {
+    background-color: var(--ifm-color-success-darker);
+  }
+
+  .avatar .freeBook a {
+    color: white;
+    display: block;
+    padding: 3px 11px;
+  }
