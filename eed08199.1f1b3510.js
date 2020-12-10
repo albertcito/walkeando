@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[242],{310:function(n){n.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"greg-bahnsen","name":"greg bahnsen","count":7,"permalink":"/blog/tags/greg-bahnsen"}')}}]);

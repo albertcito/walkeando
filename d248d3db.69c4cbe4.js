@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[217],{284:function(o){o.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"consumido-por-fuego","name":"consumido por fuego","count":10,"permalink":"/blog/tags/consumido-por-fuego"}')}}]);
