@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[194],{263:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"herencia","name":"herencia","count":2,"permalink":"/blog/tags/herencia"}')}}]);

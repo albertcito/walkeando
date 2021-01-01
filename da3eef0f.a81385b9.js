@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[231],{298:function(o){o.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"teonomismo","name":"teonomismo","count":5,"permalink":"/blog/tags/teonomismo"}')}}]);
