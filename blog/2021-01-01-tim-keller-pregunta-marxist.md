@@ -73,5 +73,5 @@ Los conservadores (¡yo soy uno!) Históricamente rara vez ven esto. Gritan “�
 Una diferencia es que ahora podemos verlo mejor. Podemos reconocerlo, admitirlo, arrepentirnos y cambiar, si queremos. La cuestión no es si Tim Keller es marxista. Eso es solo un hombre del saco para que podamos sentirnos justos con nosotros mismos. La pregunta es si podemos ser honestos con nosotros mismos acerca de nuestros propios fracasos, ser coherentes y luego empezar a hablar sobre cómo es el sacrificio necesario.
 
 <div class="alert alert--secondary" role="info">
-  Extracto del libro <a href="https://www.amazon.com/Consuming-Fire-Holy-Holies-Biblical/dp/1078311242">A Consuming Fire: The Holy of Holies in Biblical Law</a> de Joel McDurmon.
+  Artículo original <a href="https://www.lambsreign.com/mcdurmon/tim-keller-marxist-question?rq=keller">Tim Keller And The Real “Marxist” Question</a> de Joel McDurmon.
 </div>
