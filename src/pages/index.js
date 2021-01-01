@@ -10,6 +10,20 @@ import BibleMinutes from '../ui/BibleMinutes';
 
 const features = [
   {
+    title: <>Tim Keller y la real pregunta "marxista"</>,
+    imageUrl: 'img/blog/tim-keller-marxista.png',
+    description: (
+      <>
+        Dr. Keller no comprende la economía. El texto muestra que José hizo que
+        los egipcios pagaran caro para mantenerse con vida. Compró sus tierras a
+        nombre del Estado. Los trajo a la esclavitud permanente. Keller asume cosas
+        similares sobre los programas gubernamentales y las tiranías en su último
+        artículo de opinión en The New York Times.
+      </>
+    ),
+    link: '/blog/tim-keller-pregunta-marxist',
+  },
+  {
     title: <>Cherem en el Nuevo Testamento</>,
     imageUrl: 'img/blog/cherem-nuevo-testamento.png',
     description: (
