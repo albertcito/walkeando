@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[191],{263:function(o){o.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"home-school","name":"home school","count":1,"permalink":"/blog/tags/home-school"}')}}]);

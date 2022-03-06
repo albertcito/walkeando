@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[128],{201:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"marxismo","name":"marxismo","count":1,"permalink":"/blog/tags/marxismo"}')}}]);

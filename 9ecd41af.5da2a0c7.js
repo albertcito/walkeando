@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[170],{243:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"cultura","name":"cultura","count":1,"permalink":"/blog/tags/cultura"}')}}]);

@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[190],{262:function(o){o.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"socialismo","name":"socialismo","count":1,"permalink":"/blog/tags/socialismo"}')}}]);
