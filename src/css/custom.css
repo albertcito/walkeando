@@ -24,3 +24,14 @@
   margin: 0 calc(-1 * var(--ifm-pre-padding));
   padding: 0 var(--ifm-pre-padding);
 }
+
+.redirect {
+  background-color: rgb(146, 193, 255);
+  margin: 20px auto;
+  padding: 10px 20px;
+  border-radius: 10px;
+}
+.redirect a {
+  font-weight: bold;
+  color: black;
+}

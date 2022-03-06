@@ -7,6 +7,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 import styles from './styles.module.css';
 import ConsumidoPorFuego from '../ui/ConsumidoPorFuego';
 import BibleMinutes from '../ui/BibleMinutes';
+import Redirect from '../../ui/Redirect';
 
 const features = [
   {
@@ -336,11 +337,12 @@ function Home() {
       </header>
       <main>
         <div className={clsx('container')}>
+          <Redirect />
           <div className="row" style={{ width: '100%', }}>
-            <div class="col">
+            <div className="col">
               <BibleMinutes />
             </div>
-            <div class="col">
+            <div className="col">
               <ConsumidoPorFuego />
             </div>
           </div>

@@ -4,6 +4,7 @@ import Layout from '@theme/Layout';
 import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import styles from './styles.module.css';
+import Redirect from '../../ui/Redirect';
 
 function Page() {
   const context = useDocusaurusContext();
@@ -19,6 +20,7 @@ function Page() {
           </h1>
         </div>
       </header>
+      <Redirect to="/books/entendiendo-la-biblia-en-90-minutos" />
       <main>
         <div className="container" style={{ paddingTop: '50px', paddingBottom: '50px', }}>
           <div className="row">

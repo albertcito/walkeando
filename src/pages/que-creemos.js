@@ -1,9 +1,9 @@
 import React from 'react';
 import clsx from 'clsx';
 import Layout from '@theme/Layout';
-import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import styles from './styles.module.css';
+import Redirect from '../../ui/Redirect';
 
 function Page() {
   const context = useDocusaurusContext();
@@ -19,13 +19,14 @@ function Page() {
           </h1>
         </div>
       </header>
+      <Redirect to="/acerca-de" />
       <main>
         <div className="container" style={{ paddingTop: '50px', paddingBottom: '50px', }}>
           <p>
-           Reconocemos como “superior autoridad a la Voluntad de Dios, 
-           expresada en las Santas Escrituras, siendo todas estas inspiradas 
-           por Dios. Además, reconocemos como autoritativo en cuestiones de Fe, 
-           pero subordinados a las Santas Escrituras, los tres Credos Históricos, 
+           Reconocemos como “superior autoridad a la Voluntad de Dios,
+           expresada en las Santas Escrituras, siendo todas estas inspiradas
+           por Dios. Además, reconocemos como autoritativo en cuestiones de Fe,
+           pero subordinados a las Santas Escrituras, los tres Credos Históricos,
            conocidos como “De los Apóstoles”, “Niceno” y “De Atanasio”.
           </p>
           <h3>Declaración de Fe</h3>
@@ -42,7 +43,7 @@ function Page() {
             <b>10.</b>	La única Iglesia Universal que es el cuerpo de Cristo y a la cual pertenecen todos los creyentes verdaderos.<br />
             <b>11.</b>	El retorno personal del Señor Jesucristo.<br />
           </p>
-          
+
         </div>
       </main>
     </Layout>
